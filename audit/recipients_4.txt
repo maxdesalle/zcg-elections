@@ -1,0 +1,92 @@
+## Julian Abraham | handle:  | joined ZCAP August 2026 | tier: Named grant team member
+  - project: Zcash Name Service
+    org: ZcashMe, Inc
+    role/evidence: Named team member (Protocol Engineer, Lead Engineer at ZcashMe)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/298
+    date: approved May 2026 (no payout in sheet yet) | status: Open
+## Kenbak | handle: Kenbak | joined ZCAP June 2026 | tier: Direct grantee
+  - project: CipherScan
+    org: CipherScan
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/179
+    date: Feb 2026 | status: Open
+  - project: Zcash Integration for the Open Wallet Standard (OWS)
+    org: Atmosphere Labs
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/255
+    date: Apr 2026 | status: Completed
+## Kroy | handle:  | joined ZCAP November 2024 | tier: Named grant team member
+  - project: ZecHub 2026
+    org: ZecHub
+    role/evidence: Named core team (@theKroy), $53,760
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/153
+    date: Jan 2026 | status: Open
+## Kit Sturgeon (mrkit2u on the forum) | handle: mrkit2u | joined ZCAP May 2024 | tier: Direct grantee
+  - project: red·bridge Launch
+    org: RED.DEV INC
+    role/evidence: Grantee / project lead (@kitpub)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/335
+    date: approved Jun 2026; label 'Startup Payment Completed' (not yet in the sheet) | status: Open
+  - project: Zcash-Avalanche Elastic Subnet Bridge
+    org: red·dev (RedDev)
+    role/evidence: Applicant (forum mrkit2u)
+    link: https://forum.zcashcommunity.com/t/zcash-elastic-subnet-bridge-on-avalanche/44220
+    date: May 2023 | status: Open
+## Mark Henderson | handle: aphelionz | joined ZCAP September 2023 | tier: Direct grantee
+  - project: Ziggurat 1.0 / 2.0 / 3.0; Zcash UniFFI Library
+    org: Equilibrium
+    role/evidence: Applicant / project lead ('Mark here from Equilibrium', VP Engineering)
+    link: https://forum.zcashcommunity.com/t/ziggurat-the-zcash-network-stability-framework/38758
+    date: Mar 2021 | status: Completed
+## Max Hampshire | handle: maxnym | joined ZCAP May 2026 | tier: Named grant team member
+  - project: The Nym mixnet for Network Privacy for Zcash
+    org: Nym Technologies
+    role/evidence: Nym team; posts grant updates as maxnym
+    link: https://forum.zcashcommunity.com/t/revised-nym-for-zcash-network-level-privacy/46688
+    date: Oct 2024 | status: Open
+## Maximilian Roszko | handle: MaximilianR | joined ZCAP May 2022 | tier: Direct grantee
+  - project: Bootstrapping liquidity for renZEC on Binance Smart Chain
+    org: Ren (RenZec)
+    role/evidence: Applicant on behalf of the Ren team (forum MaximilianR)
+    link: https://forum.zcashcommunity.com/t/bootstrapping-liquidity-for-renzec-on-binance-smart-chain/38849
+    date: Apr 2021 | status: Completed
+## Michae2xl (on the forum) | handle: Michae2xl | joined ZCAP May 2022 | tier: Direct grantee
+  - project: Zcash Brazil 2023, 2024 (x4), 2025, 2026
+    org: Zcash Brazil
+    role/evidence: Grantee / lead
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/8
+    date: Jan 2023 | status: Completed/Open
+  - project: Zcash Network School
+    org: Weever / Zcash.me
+    role/evidence: Named team member
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/266
+    date: Apr 2026 | status: Completed
+## Michael Harms | handle: brunchtime | joined ZCAP Before May '21 | tier: Direct grantee
+  - project: 1 year of ZECpages servers; ZECpages Testnet Faucet
+    org: ZecPages
+    role/evidence: Grantee (ZECpages creator, forum BrunchTime)
+    link: https://forum.zcashcommunity.com/t/1-year-of-zecpages-servers/38823
+    date: Mar 2021 | status: Completed
+## Minevg (on the forum) | handle: Minevg | joined ZCAP November 2024 | tier: Named grant team member
+  - project: Zcash Brazil 2025 / 2026
+    org: Zcash Brazil
+    role/evidence: Named core team (Design)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/8
+    date: Jan 2025 | status: Completed/Open
+  - project: Zcash Brazil 2023; Zcash Global <> Zcash Brazil 2024
+    org: Zcash Brazil
+    role/evidence: Named team member (Mine, design)
+    link: https://forum.zcashcommunity.com/t/zcash-global-zcash-brazil/46295
+    date: Jan 2023 | status: Completed
+## readymouse | handle: readymouse | joined ZCAP November 2025 | tier: Direct grantee
+  - project: ETHDenver; ETHCC; Berlin BW; DWeb Camp; ZECsy Amsterdam; ZECsy 12 Months
+    org: readymouse / ZECsy
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/193
+    date: Jan 2026 | status: Completed/Open
+## Natasha Mynhier | handle: @natashamynhier | joined ZCAP May 2022 | tier: Direct grantee
+  - project: Zcash Short Documentary; Ceremony/Powers of Tau/Halo video; Zcash Media Launch Plan; Zcash Media 2023
+    org: Zcash Media (37 Laines)
+    role/evidence: Director / Producer; 37 Laines 'run by Natasha Mynhier and Jeff Hammerton'
+    link: https://forum.zcashcommunity.com/t/zcash-mini-documentary-educational-series/39667
+    date: Aug 2021 | status: Completed / 2023 cancelled

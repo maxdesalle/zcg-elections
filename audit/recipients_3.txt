@@ -1,0 +1,77 @@
+## Eric Tu | handle: ec2 | joined ZCAP May 2025 | tier: Direct grantee
+  - project: Chainsafe Systems (WebZjs continuation)
+    org: ChainSafe
+    role/evidence: Project lead (Principal Research Engineer)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/2
+    date: Aug 2025 | status: Completed
+## fabacab | handle: fabacab | joined ZCAP May 2026 | tier: Direct grantee
+  - project: ETHDenver; ETHCC; Berlin BW; DWeb Camp; ZECsy Amsterdam; ZECsy 12 Months
+    org: ZECsy / Zcash Grassroots Marketing Team
+    role/evidence: Application co-owner, lead educator
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/193
+    date: Jan 2026 | status: Completed/Open
+## fireice_uk (on the forum) | handle: fireice_uk | joined ZCAP May 2021 | tier: Named grant team member
+  - project: A Metamask-style browser extension for Zcash (Zephyr)
+    org: Zypher
+    role/evidence: Named team member ('Fireice is a freelance C++ developer'); milestone 1 ($30k) paid, rest cancelled
+    link: https://forum.zcashcommunity.com/t/zephyr-a-metamask-style-browser-extension-for-zcash/39112
+    date: May 2021 | status: Cancelled after milestone 1
+## Cjfrankie | handle: @Cjfrankie | joined ZCAP October 2025 | tier: Named grant team member
+  - project: Zcash Nigeria 2025 / v2.0 / Aug-Oct / Nov-Dec / 2026
+    org: Zcash Nigeria
+    role/evidence: Named team member, $600/month
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/14
+    date: Feb 2025 | status: Completed/Open
+## Hanh (on the forum) | handle: hanh | joined ZCAP December 2021 | tier: Direct grantee
+  - project: Zcash Infra 1 year; BTCPayServer Orchard+UA; Coin Voting maintenance; zaino Stability (GitHub era) + Cold Wallet, YWallet, Ledger, Maya DEX, Coin Voting 2.0 etc. (2021-2025)
+    org: Hanh
+    role/evidence: Grantee (many grants)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/5
+    date: Mar 2021 | status: Completed/Open
+## Harry Halpin | handle: @harryhalpin | joined ZCAP May 2021 | tier: Direct grantee
+  - project: The Nym mixnet for Network Privacy for Zcash
+    org: Nym Technologies
+    role/evidence: Applicant (thread author, Nym CEO)
+    link: https://forum.zcashcommunity.com/t/the-nym-mixnet-for-network-privacy-for-zcash/46324
+    date: Oct 2024 | status: Open
+## J.W. Verret | handle: @jwverret | joined ZCAP November 2022 | tier: Named grant team member
+  - project: Pretty Good Policy for Zcash
+    org: Pretty Good Policy for Zcash
+    role/evidence: Named team member (Board Director)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/396
+    date: Sep 2026 | status: Open
+## James Katz | handle: james_katz | joined ZCAP October 2023 | tier: Named grant team member
+  - project: Zcash Brazil 2025 / 2026
+    org: Zcash Brazil
+    role/evidence: Named core team (Dev)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/8
+    date: Jan 2025 | status: Completed/Open
+  - project: Zcash Global <> Zcash Brazil 2024
+    org: Zcash Brazil
+    role/evidence: Named team member (Dev)
+    link: https://forum.zcashcommunity.com/t/zcash-global-zcash-brazil/46295
+    date: Jan 2024 | status: Completed
+## gottabeJay (on the forum) | handle: gottabeJay | joined ZCAP May 2022 | tier: Direct grantee
+  - project: Telegram Anti Scam Bot - Grant Request
+    org: JRGB (Zcash Telegram admins)
+    role/evidence: Applicant (thread author, $700 retroactive grant)
+    link: https://forum.zcashcommunity.com/t/zcash-anti-scam-telegram-bot-grant/42845
+    date: May 2023 | status: Completed
+## Jonathan Rouach | handle: jonmrjr | joined ZCAP December 2023 | tier: Direct grantee
+  - project: Zebra ZSA Integration; ZSAs in NU7; Legal Compliance 2025; OrchardZSA finalization; Feature Branch Testnet
+    org: QEDIT
+    role/evidence: Grantee / application owner (@jonmrjr)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/6
+    date: Jan 2025 | status: Completed/Open
+## Jonathan Bird (birdify on the forum) | handle: birdify | joined ZCAP September 2023 | tier: Named grant team member
+  - project: Free2Z (legal expenses; Free2Z; Preparing the Garden for Spring)
+    org: Free2Z (2Z Inc)
+    role/evidence: Co-founder / CFO ('founded by Skylar Saveland (CEO) and Jonathan Bird (CFO)')
+    link: https://forum.zcashcommunity.com/t/free2-whats-your/41289
+    date: May 2022 | status: Completed
+## Juan Carlos Carmona Calvo (Juanky on the forum) | handle: Juanky | joined ZCAP December 2024 | tier: Named grant team member
+  - project: Implement Orchard Funded Amendment; Authentic Financial Insight (Zingo! Onward)
+    org: Zingo Labs
+    role/evidence: Named team member ('Za, Juanky, Gygaxis'; juanky@zingolabs.org; forum title 'Zingo Labs')
+    link: https://forum.zcashcommunity.com/t/implement-orchard/42706
+    date: Nov 2022 | status: Completed

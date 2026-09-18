@@ -1,0 +1,11 @@
+# audit-rec-5 (recipients slice 5)
+- Olli Tiainen Ziggurat line: WEAK. Not named in Ziggurat threads; eqg.co lists him "Chief Executing Officer", not co-founder. => drop Ziggurat line (keep #116 direct). Fix "co-founder".
+- Nick Mathewson Arti 2022-24: formal proposal 42578 by alsmith; Nick posted Year II plan thread 41387 ("I'm Nick Mathewson, one of the co-founders of Tor"). Cite 41387. Milestones 2024-25.
+- Pacu DevRel: ledger milestones start Oct 2024 (forum 48368 Jul 2024); #18 is Feb 2025 re-post. Fix "(2025)" label.
+- Paul Brigner #396: "Chairman of the Board, Founder of Pretty Good Policy for Zcash" in team-members. Fix evidence text; handle "paulbrigner". Forum title "Zcash Community Grants Member" (conflict flag).
+- Iogy 2026: #155 names nobody; 2026 monthly reports forum 53702 say "Design Team @iogy & @Minevg" => cite 53702. Forum Iogy = Pedro Américo.
+- Samaraanni 2024: named on 46295 proposal but absent from all payout reports => relabel "named on proposal; not in payout reports"; drop (Q1-Q4).
+- Roosevelt handle: set gordonesTV (gordonesroo 404). $3,500 from ledger.
+- Rene Vergara: "ZGo 2022" -> ledger name "ZGo - The Zcash Register". pitmutt = Rene Vergara Larrea (father) per 41885 "father-and-son team".
+- Pablo K: ledger name "Feature Branch Testnet and Compatible Developer Tooling".
+- Rest CONFIRMED (ogasky, Robmarn x3, Roosevelt x4, Ryan Taylor, Rene, Pablo, Paul x2, Nick 2021).

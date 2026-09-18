@@ -1,0 +1,11 @@
+# audit-rec-3 (recipients slice 3)
+- Jonathan Bird: date wrong (nothing paid May 2022; legal reimbursement first paid 21 Jun 2022, Free2Z m1 25 Jul 2022, Garden 8 Mar 2023). Quote "founded by Skylar (CEO) and Jonathan Bird (CFO)" is from thread 43979 (Garden for Spring, OP by birdify himself). 41289 names him: "Jonathan Bird, PhD. is a senior software engineer at SAP". => fix date Jun 2022; add link 43979; Garden: he is applicant/OP => could be Direct grantee.
+- James Katz Brazil 2026 #155: not named; only "to help James" + github links. Keep 2025 (#8) and 2024; mark 2026 implied.
+- fireice_uk: quote "Fireice is a freelance C++ developer" not in forum thread (from zfnd page). Forum evidence: OP "@fireice_uk and I are also happy to add ... @mistfpga to the team"; Shawn: "Congratulations to the whole team @fireice_uk and @mistfpga". Replace quote.
+- Jonathan Rouach #6: owner handle written @jonrouach (404), team lists him "Co-Lead, CEO at QEDIT"; @jonmrjr owner on #44,#59,#154,#256.
+- fabacab #402: team member, not co-owner. Add links #229,#253,#283,#344,#402.
+- Cjfrankie: confirmed on all 5; add per-issue links. Forum name Frank Chukwurah.
+- Juanky: "Now there are 3 of us (Za, Juanky, Gygaxis)" is post #5 in 42706; emails in 43945 (Zingo! Onward). Add link 43945.
+- Flags: Hanh forum title "Zcash Community Grants Member - Ywallet Creator" (ZCG committee seat?); J.W. Verret also a ZF director; board is paid per #396.
+- Coverage: ChainSafe other grants (WebZjs, feasibility, librustzcash) lead not checked; Zingo later grants for Juanky not checked.
+- Rest CONFIRMED (Eric Tu, Hanh, Harry Halpin, gottabeJay, J.W. Verret, James Katz 2025/2024).

@@ -1,0 +1,92 @@
+## Cosmo Guerini | handle:  | joined ZCAP June 2026 | tier: Direct grantee
+  - project: Marketing at ETHCC + Exxxotica; Berlin Blockchain Week; DWeb Camp
+    org: Zcash Grassroots Marketing Team (readymouse)
+    role/evidence: Application co-owner (@cosmojg)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/229
+    date: Mar 2026 | status: Completed
+## Dorian | handle: dorianvp | joined ZCAP May 2025 | tier: Named grant team member
+  - project: Zaino grants
+    org: Zingo Labs
+    role/evidence: Zingo Labs engineer (GitHub company @zingolabs; public org member; 278 Zaino commits)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/16
+    date: Oct 2024 | status: Completed
+## David Boyer | handle: David_Heisenberg | joined ZCAP May 2022 | tier: Direct grantee
+  - project: Zcash Short Documentary; Zcash Media Launch Plan; Zcash Media 2023
+    org: Zcash Media (37 Laines)
+    role/evidence: Applicant / Producer-Writer (forum David_Heisenberg; ZF Grants team box 'David Boyer')
+    link: https://forum.zcashcommunity.com/t/zcash-media-launch-plan/41138
+    date: Aug 2021 | status: Completed / 2023 cancelled
+## DecentralistDan (on the forum) | handle: @decentralistdan | joined ZCAP May 2021 | tier: Direct grantee
+  - project: ZcashZeal
+    org: ZcashZeal
+    role/evidence: Grantee (applicant decentralistdan / Dan Wolande); milestone 1 paid, then cancelled. Now ZF staff, but this grant predates that
+    link: https://forum.zcashcommunity.com/t/zcashzeal-multi-media-community-content-hub/38483
+    date: Feb 2021 | status: Cancelled after milestone 1
+## dismad (on the forum) | handle: @dismad8 | joined ZCAP May 2022 | tier: Direct grantee
+  - project: ZecHub 2025; ZecHub 2026
+    org: ZecHub
+    role/evidence: Core team, grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9
+    date: Jan 2025 | status: Completed/Open
+  - project: ZecHub 2023; ZecHub 2024; ZecHub 2024 continued
+    org: ZecHub
+    role/evidence: Core team / applicant
+    link: https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077
+    date: Mar 2023 | status: Completed
+## Dre | handle: dre_nesthub | joined ZCAP June 2026 | tier: Direct grantee
+  - project: Zcash Onboarding @ Web3Lagos Conference 2026
+    org: Zcash Developer Onboarding
+    role/evidence: Grantee / project lead (Drekal; forum thread posted by Dre_Nesthub)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/349
+    date: Jul 2026 | status: Completed
+## E-zec on the forum | handle: E-zec | joined ZCAP May 2024 | tier: Named grant team member
+  - project: Zcash Brazil 2025 / 2026
+    org: Zcash Brazil
+    role/evidence: Named core team (Head & growth)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/8
+    date: Jan 2025 | status: Completed/Open
+  - project: Zcash Brazil 2023; Zcash Global <> Zcash Brazil 2024
+    org: Zcash Brazil
+    role/evidence: Named team member (moderator)
+    link: https://forum.zcashcommunity.com/t/zcash-global-zcash-brazil/46295
+    date: Jan 2023 | status: Completed
+## Edickson González (Edicksonjga on the forum) | handle: Edicksonjga | joined ZCAP September 2023 | tier: Named grant team member
+  - project: Zcash Global en Español 2025 / 2026
+    org: Zcash Español
+    role/evidence: Named team member
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/10
+    date: Feb 2025 | status: Completed/Open
+  - project: Zcash Global en Español Q4 2024
+    org: Zcash Español
+    role/evidence: Named team member ('The Zcash en Español team consists of 5 members')
+    link: https://forum.zcashcommunity.com/t/zcash-global-en-espanol-q4/49019
+    date: Nov 2024 | status: Completed
+## Elzz | handle: elzz-ux | joined ZCAP November 2025 | tier: Direct grantee
+  - project: Zcash Ecosystem Onboarding At Women in DeFi Summit 2026
+    org: Zcash Ecosystem Onboarding
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/247
+    date: Apr 2026 | status: Completed
+## Emersonian (on the forum) | handle: emersonian | joined ZCAP December 2024 | tier: Direct grantee
+  - project: Zcash Lightwalletd Infrastructure Development and Maintenance
+    org: Emersonian & Zancas
+    role/evidence: Grantee
+    link: https://forum.zcashcommunity.com/t/rfp-zcash-lightwalletd-infrastructure-development-and-maintenance/47080
+    date: Apr 2024 | status: Completed
+## emmalexo | handle: @Emmalexo | joined ZCAP November 2025 | tier: Named grant team member
+  - project: Zcash Nigeria 2025 v2.0 / Aug-Oct / Nov-Dec / 2026
+    org: Zcash Nigeria
+    role/evidence: Named team member, $600/month
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/40
+    date: Jun 2025 | status: Completed/Open
+## Eran Tromer | handle: tromer | joined ZCAP Before May '21 | tier: Named grant team member
+  - project: Oblivious Message Retrieval
+    org: Columbia University
+    role/evidence: Co-proposer with Zeyu Liu; $22k paid then fully returned
+    link: https://forum.zcashcommunity.com/t/oblivious-message-retrieval/40715
+    date: Jan 2022 | status: Cancelled, funds returned
+  - project: Zcash Shielded Assets - Asset Swaps and Beyond
+    org: QEDIT
+    role/evidence: Named QEDIT team member ('includes Pablo Kogan, Alexey Koren, Constance Beguier, Eran Tromer, ...')
+    link: https://forum.zcashcommunity.com/t/zcash-shielded-assets-asset-swaps-and-beyond/44497
+    date: May 2023 | status: Completed

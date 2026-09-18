@@ -1,0 +1,107 @@
+## 1337bytes (on the forum) | handle: 1337bytes | joined ZCAP May 2022 | tier: Direct grantee
+  - project: Upgrade BTCPayServer Zcash Plugin for 2.1
+    org: 1337bytes
+    role/evidence: Grantee (GitHub @macintoshhelper)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/35
+    date: May 2025 | status: Completed
+  - project: BTCPayServer Multi-Account and 0conf Mempool Support
+    org: 1337bytes
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/269
+    date: May 2026 | status: Completed
+  - project: BTCPayServer Multi-Store GraphQL Client
+    org: 1337bytes
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/395
+    date: Aug 2026 (approved, not yet paid) | status: Open
+  - project: Elemental ZEC – Zcash UI Component Kit and Payment Processor
+    org: Elemental ZEC
+    role/evidence: Grantee
+    link: https://forum.zcashcommunity.com/t/elemental-zec-ui-component-kit-and-payment-processor/40110
+    date: Dec 2021 | status: Completed
+## Hardaeborla | handle:  | joined ZCAP November 2024 | tier: Named grant team member
+  - project: Zcash Nigeria 2025 / v2.0 / Aug-Oct / Nov-Dec / 2026
+    org: Zcash Nigeria
+    role/evidence: Named team member, $600/month
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/14
+    date: Feb 2025 | status: Completed/Open
+## Aescobar Michael | handle:  | joined ZCAP June 2026 | tier: Named grant team member
+  - project: Rhea Zcash Gateway
+    org: Rhea Finance
+    role/evidence: Named team member (Operational Lead)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/239
+    date: Apr 2026 | status: Completed
+  - project: Zcash WalletConnect Integration
+    org: Noir Wallet
+    role/evidence: Named team member (Operational Lead)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/391
+    date: Sep 2026 | status: Open
+## Tecnopapapi (on the forum) | handle: Tecnopapapi | joined ZCAP September 2023 | tier: Named grant team member
+  - project: ZecHub: Proposal 2024
+    org: ZecHub
+    role/evidence: Named core team member (dismad, squirrel, Tecnopapapi)
+    link: https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077
+    date: Jan 2024 | status: Completed
+## Andre Froes | handle: andr9froes | joined ZCAP June 2026 | tier: Direct grantee
+  - project: Zcash Network School
+    org: Weever / Zcash.me
+    role/evidence: Grantee / project lead
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/266
+    date: Apr 2026 | status: Completed
+## Anton Livaja | handle:  | joined ZCAP June 2026 | tier: Direct grantee
+  - project: Bootstrapped and deterministic builds a la StageX
+    org: Distrust.co
+    role/evidence: Grantee / project lead (co-founder Distrust)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/128
+    date: Dec 2025 | status: Open
+## Arlo Byrne (idky137 on the forum) | handle: idky137 | joined ZCAP December 2024 | tier: Named grant team member
+  - project: Zaino grants (Build Zaino, Completion, Respecification, Zallet Release, Release Stabilization)
+    org: Zingo Labs
+    role/evidence: Zingo Labs engineer (forum title 'Zingo Labs'; #1 Zaino contributor)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/16
+    date: Oct 2024 | status: Completed
+  - project: Build Zaino To Deprecate Zcashd (2024 proposal)
+    org: Zingo Labs
+    role/evidence: Named in proposal: 'In collaboration with @idky137 and @AloeareV internally'
+    link: https://forum.zcashcommunity.com/t/zingo-labs-accelerates-zcashd-deprecation-with-zaino/48545
+    date: Oct 2024 | status: Completed
+## Aura Brito (AuraBritoSM on the forum) | handle: AuraBritoSM | joined ZCAP May 2024 | tier: Named grant team member
+  - project: Zcash Global en Español 2025 / 2026
+    org: Zcash Español
+    role/evidence: Named team member, $1200/month
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/10
+    date: Feb 2025 | status: Completed/Open
+  - project: Zk Av Club Community Support 2025 / 2026
+    org: ZK AV Club
+    role/evidence: Named team member
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/11
+    date: Feb 2025 | status: Completed/Open
+  - project: Zcash Global en Español Q4 2024
+    org: Zcash Español
+    role/evidence: Named team member ('The Zcash en Español team consists of 5 members')
+    link: https://forum.zcashcommunity.com/t/zcash-global-en-espanol-q4/49019
+    date: Nov 2024 | status: Completed
+## Batuhanyldrm | handle: Batuhan | joined ZCAP November 2024 | tier: Direct grantee
+  - project: Zcash Global Turkish 2025, Q2, Q3-4; Zcash Türkiye 2026 Q1-2, ZBase, Istanbul BW, RLAY HUB, 2026 Q3-4→2027
+    org: Batuhan / Zcash Türkiye
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/7
+    date: Jan 2025 | status: Completed/Open
+## Bryan Gillespie | handle:  | joined ZCAP May 2024 | tier: Named grant team member
+  - project: Crypto Lounge Experience and The Hunting of The Snark
+    org: Inversed Tech
+    role/evidence: Co-founder / Chief Security Officer of Inversed Tech; forum bgillespie: 'Collaborators on the project are @LeCryptoMath and myself from Inversed Tech'
+    link: https://forum.zcashcommunity.com/t/proposal-the-crypto-lounge-experience-event-in-barcelona/44729
+    date: Jul 2023 | status: Completed
+## Chidi | handle: lisa001 | joined ZCAP November 2022 | tier: Direct grantee
+  - project: Zcash Nigeria 2025 / v2.0 / Aug-Oct / Nov-Dec / 2026
+    org: Zcash Nigeria
+    role/evidence: Grantee / lead (lisa001)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/14
+    date: Feb 2025 | status: Completed/Open
+## Constance Beguier | handle:  | joined ZCAP September 2023 | tier: Named grant team member
+  - project: Zebra ZSA Integration; ZSAs in NU7 H2 2025; OrchardZSA finalization; Feature Branch Testnet
+    org: QEDIT
+    role/evidence: Named team member (Cryptography)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/6
+    date: Jan 2025 | status: Completed/Open

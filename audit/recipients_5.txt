@@ -1,0 +1,112 @@
+## Nick Mathewson | handle: nickm_tor | joined ZCAP September 2023 | tier: Direct grantee
+  - project: Arti: a pure-Rust Tor implementation (2021); Arti onion services and beyond (2022-2024)
+    org: Tor Project
+    role/evidence: Applicant ('I'm Nick Mathewson, one of the co-founders of Tor')
+    link: https://forum.zcashcommunity.com/t/arti-a-pure-rust-tor-implementation-for-zcash-and-beyond/38776
+    date: Jun 2021 | status: Completed
+## ogasky (on the forum) | handle: ogasky | joined ZCAP June 2026 | tier: Direct grantee
+  - project: Zcash Ghana Apr-Jun 2026; Jul-Sep 2026
+    org: ZcashGH
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/252
+    date: May 2026 | status: Completed
+## Olli Tiainen | handle: olliten | joined ZCAP November 2025 | tier: Direct grantee
+  - project: ZEC-NAM shielded airdrop protocol
+    org: Eiger / Equilibrium Group
+    role/evidence: Grantee / application owner
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/116
+    date: Jan 2026 | status: Completed
+  - project: Ziggurat 1.0-3.0; Zcash UniFFI Library (2021-2023)
+    org: Equilibrium
+    role/evidence: Equilibrium co-founder (org that received the grants; applicant was Mark Henderson)
+    link: https://forum.zcashcommunity.com/t/ziggurat-the-zcash-network-stability-framework/38758
+    date: Mar 2021 | status: Completed
+## Pablo K | handle: PabloK | joined ZCAP June 2026 | tier: Direct grantee
+  - project: Zebra ZSA Integration; ZSAs in NU7; OrchardZSA finalization; Feature Branch Testnet
+    org: QEDIT
+    role/evidence: Project lead (Pablo Kogan, Director of Engineering)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/6
+    date: Jan 2025 | status: Completed/Open
+## Pacu | handle: Pacu (@thecodebuffet on Twitter) | joined ZCAP November 2022 | tier: Direct grantee
+  - project: Zcash Developer Relations Engineer (2025) + Zcash Wallet Community Developer 2023, 2024, 2024 Q2
+    org: Pacu
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/18
+    date: Aug 2023 | status: Completed
+## Paul Brigner | handle: @paulbrigner | joined ZCAP November 2022 | tier: Direct grantee
+  - project: PGP* for Crypto Events; Cypherpunk Policy Dinner
+    org: PGP for Crypto, LLC
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/65
+    date: Sep 2025 | status: Completed
+  - project: Pretty Good Policy for Zcash
+    org: Pretty Good Policy for Zcash
+    role/evidence: Named team member
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/396
+    date: Sep 2026 | status: Open
+## Iogy (on the forum) | handle: Iogy | joined ZCAP November 2024 | tier: Named grant team member
+  - project: Zcash Brazil 2025 / 2026
+    org: Zcash Brazil
+    role/evidence: Named core team (Design)
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/8
+    date: Jan 2025 | status: Completed/Open
+  - project: Zcash Brazil 2023; Zcash Global <> Zcash Brazil 2024
+    org: Zcash Brazil
+    role/evidence: Named team member (design)
+    link: https://forum.zcashcommunity.com/t/zcash-global-zcash-brazil/46295
+    date: Jan 2023 | status: Completed
+## Rene Vergara (pitmutt on the forum) | handle: pitmutt | joined ZCAP May 2022 | tier: Direct grantee
+  - project: ZGo 2025 (Retroactive) + ZGo 2022, ZGo Support 2024, Zenith Full Node Wallet
+    org: Vergara Technologies
+    role/evidence: Grantee
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/137
+    date: Jun 2022 | status: Completed
+## Robmarn (on the forum) | handle: robmarn | joined ZCAP October 2025 | tier: Named grant team member
+  - project: Zcash Global en Español 2025 / 2026
+    org: Zcash Español
+    role/evidence: Named team member
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/10
+    date: Feb 2025 | status: Completed/Open
+  - project: Zk Av Club 2025 / 2026
+    org: ZK AV Club
+    role/evidence: Named team member
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/11
+    date: Feb 2025 | status: Completed/Open
+  - project: Zcash Global en Español Q4 2024
+    org: Zcash Español
+    role/evidence: Named team member ('The Zcash en Español team consists of 5 members')
+    link: https://forum.zcashcommunity.com/t/zcash-global-en-espanol-q4/49019
+    date: Nov 2024 | status: Completed
+## Roosevelt Gordones | handle: Zcast, el podcast de Zcash en Español; forum user is @gordonesroo, but I will also change it to @gordonesTV | joined ZCAP September 2023 | tier: Direct grantee
+  - project: Generation Z - Educational camp for youth
+    org: Zcash Español (gordonesTV)
+    role/evidence: Grantee (applied personally), $3,500
+    link: https://forum.zcashcommunity.com/t/generation-z-grant-proposal/48434
+    date: Aug 2024 | status: Completed
+  - project: Zcash Global en Español 2025 / 2026
+    org: Zcash Español
+    role/evidence: Named team member, $1200/month
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/10
+    date: Feb 2025 | status: Completed/Open
+  - project: Zk Av Club 2025 / 2026
+    org: ZK AV Club
+    role/evidence: Named team member
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/11
+    date: Feb 2025 | status: Completed/Open
+  - project: Zcash Global en Español Q4 2024
+    org: Zcash Español
+    role/evidence: Named team member ('The Zcash en Español team consists of 5 members')
+    link: https://forum.zcashcommunity.com/t/zcash-global-en-espanol-q4/49019
+    date: Nov 2024 | status: Completed
+## Ryan Taylor | handle: ryan.taylor | joined ZCAP September 2023 | tier: Direct grantee
+  - project: Zk Av Club Community Support 2025; Zcash Community Media Infrastructure 2026
+    org: ZK AV Club
+    role/evidence: Grantee / project lead
+    link: https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/11
+    date: Feb 2025 | status: Completed/Open
+## Samaraanni (on the forum) | handle: Samaraanni | joined ZCAP November 2024 | tier: Named grant team member
+  - project: Zcash Brazil 2023; Zcash Global <> Zcash Brazil 2024 (Q1-Q4)
+    org: Zcash Brazil
+    role/evidence: Named team member (Samara, PR)
+    link: https://forum.zcashcommunity.com/t/zcash-global-zcash-brazil/46295
+    date: Jan 2023 | status: Completed

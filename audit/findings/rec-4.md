@@ -1,0 +1,14 @@
+# audit-rec-4 (recipients slice 4)
+- Michae2xl #266 Zcash Network School: WRONG. He is an unpaid Advisor ("Role: Advisor"; compensation only Andre and James). => remove line.
+- Julian Abraham #298: GitHub craftsoldier = Julian Abraham, application co-owner => tier Direct grantee. $0 paid so far (estimates only).
+- Minevg 2026: #155 names nobody => drop 2026 from Minevg (and keep 2025 #8). (rec-5 notes forum 53702 reports credit "@iogy & @Minevg" for design — cite that instead.)
+- Minevg 2023: 43499 @-mentions "Mine" (different account); identity via name. Add 43499 link.
+- Max Hampshire: not named in proposal; posts as Nym staff delivering milestones ("I have created a module in our SDK"; pacu "Hi Max"). Downgrade evidence text; keep as org staff.
+- Mark Henderson: forum handle shieldedmark (aphelionz = GitHub). "Mark here from Equilibrium" from 41201/43350. UniFFI 43468 names him "VP of Engineering at Equilibrium. He has led the team".
+- Natasha Mynhier: forum account 37L; Zcash Media 2023 startup paid 13 Mar 2023 (counts).
+- Kroy: handle theKroy (GitHub + forum), "Designer | ZecHub".
+- Kit Sturgeon #335 not in ledger; identity solid (kitpub twitter mrkit2u).
+- Michae2xl: add #155 (2026), 43499 (2023), 46295 (2024).
+- readymouse: add #229,#253,#283,#344,#402.
+- Michael Harms handle BrunchTime.
+- Rest CONFIRMED (Kenbak x2, Kit 2023, Maximilian Roszko).

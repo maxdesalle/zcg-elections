@@ -2,7 +2,7 @@
 
 Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash Community Grant (ZCG), 2021 to September 2026.
 
-**Result: 72 of 200 ZCAP members (36%)** — 44 direct grantees, 28 named team members of a grantee. Two more were approved but paid nothing.
+**Result: 72 of 200 ZCAP members (36%)** — 45 direct grantees, 27 named team members of a grantee. Two more were approved but paid nothing.
 
 - `zcap-zcg-grants.csv` — one row per member/grant with project, org, role, proposal link, first payment, status.
 - `zcap-zcg.html` — the same as a filterable page (also at https://claude.ai/artifact/PHduP7iegoVQkY5ihoTsX7).
@@ -24,3 +24,16 @@ Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash
 4. Handle-only matches verified against forum or GitHub profiles.
 
 Rebuild: `python3 scripts/build.py && python3 scripts/page.py`.
+
+## Audit (Sep 2026)
+
+Twelve independent adversarial passes re-verified every row against the issue bodies, forum threads, profiles and the ledger (`audit/findings/`). Net effect on the count: zero. Changes made:
+
+- Removed Bryan Gillespie (Inversed Tech co-founder, but not on the 2023 grant; joined the forum after approval) and Eran Tromer (self-described unpaid advisor on both the Columbia and QEDIT grants).
+- Added AAmandita and Rodrigo Schönell: the Zcash Brazil 2026 application names no individuals, but its monthly milestone reports name both as team members.
+- Julian Abraham moved to direct grantee (GitHub craftsoldier, co-owner of the Zcash Name Service application).
+- Dropped grant lines that did not hold: Michae2xl on Zcash Network School (unpaid advisor), Olli Tiainen on Ziggurat (not named; CEO of the org), Yoditar on Generation Z (Roosevelt's personal grant), zancas "Sofia" (never paid).
+- Corrected dates, links and evidence on about twenty lines; every series now links its own issues.
+- Reclassified Amber O'Hearn (Least Authority board and former ZCG committee member, never ECC/ZF) to not matched; Natalie E. and Scott Onder to ECC/ZF.
+
+Residual uncertainty: the "Tron" row rests on the name and join date (the paid ZecHub contributor uses GitHub onajifortune and has no linkable forum account); Max Hampshire is identified from commit authorship and posting behaviour rather than a page naming him. The forum user "Emmanuel" is a different person from Zcash Nigeria's emmalexo and is not counted. ZCG's 2022-23 Global Ambassador Program paid Eric Vaughn, AidenZ and artkor directly, but that is a program contract, not a grant, and is not in the ledger; they are not counted.
