@@ -66,10 +66,6 @@ add("Yoditar (on the forum)",("Zcash Global en Español 2025 / 2026 + Generation
 add("zancas (on the forum)",("Zaino grants; Sofia/Prague collaboration; Hackfest + Zingo Labs 2022-2023 grants; Lightwalletd Infra (with Emersonian)","Zingo Labs","Grantee / lead",GH+"16","Nov 2022","Completed/Open"))
 add("ZArabia (on the forum)",("ZcashArabia Q1 2026; May-Sep 2026; Aug-Dec 2026","ZcashArabia","Grantee (org account; GitHub @Cryptoblarabi)",GH+"160","Mar 2026","Completed/Open"))
 add("zksquirrel",("ZecHub 2025; ZecHub 2026","ZecHub","Core team, grantee",GH+"9","Jan 2025","Completed/Open"))
-add("Palmar ",("Zcash Global en Español 2025 / 2026 (Club Zcash Querétaro)","Zcash Español","Runs Club Zcash Querétaro, a Zcash Español program funded by the grant; not a named/compensated team member",GH+"157","Feb 2025","Completed/Open"))
-# ---- ZecHub DAO members (org membership; ZecHub grants fund the DAO bounty pool) ----
-for n in ["AidenZ (on the forum)","artkor (on the forum)","LaDale Terrell (Lowo88 on forum)","Zerodartz (on the forum)","Tecnopapapi (on the forum)","Jason McGee (aquietinvestor on the forum)"]:
-    add(n,("ZecHub (2023, 2024, 2025, 2026)","ZecHub","ZecHub DAO member (listed at zechub.wiki/dao); DAO governs the ZCG-funded bounty pool. Not a named core-team grantee.",GH+"9","—","DAO member"))
 
 # ---- pre-GitHub (2021-2024) matches, from forum threads / archived ZF Grants pages ----
 F="https://forum.zcashcommunity.com/t/"
@@ -106,9 +102,6 @@ add("Minevg (on the forum)",("Zcash Brazil 2023; Zcash Global <> Zcash Brazil 20
 add("Iogy (on the forum)",("Zcash Brazil 2023; Zcash Global <> Zcash Brazil 2024","Zcash Brazil","Named team member (design)",F+"zcash-global-zcash-brazil/46295","Jan 2023","Completed"))
 add("E-zec on the forum",("Zcash Brazil 2023; Zcash Global <> Zcash Brazil 2024","Zcash Brazil","Named team member (moderator)",F+"zcash-global-zcash-brazil/46295","Jan 2023","Completed"))
 add("James Katz",("Zcash Global <> Zcash Brazil 2024","Zcash Brazil","Named team member (Dev)",F+"zcash-global-zcash-brazil/46295","Jan 2024","Completed"))
-for n,ev in [("Tim  ","Named in ZecHub Jan 2024 report: 'we commend @tim_ukrainian, @yoditar, @artkor and @Olek for their continued involvement & translated newsletters' (Global Ambassador program)"),("Olek (on the forum)","Named in ZecHub Jan 2024 report: 'we commend @tim_ukrainian, @yoditar, @artkor and @Olek ... translated newsletters' (Global Ambassador program)"),("artkor (on the forum)","Also a ZecHub Global Ambassador (Jan 2024 report)")]:
-    add(n,("ZecHub: Proposal 2024","ZecHub","ZecHub contributor / Global Ambassador. "+ev,F+"zechub-proposal-2024/46077","2024","Contributor"))
-add("Jason McGee (aquietinvestor on the forum)",("ZecHub: Proposal 2024 (ZSA Education Project)","ZecHub","ZecHub contributor: 'Thanks to @aquietinvestor @robmarn & @vivek for putting it together' (Mar 2024 report)",F+"zechub-proposal-2024/46077","2024","Contributor"))
 add("Yoditar (on the forum)",("Zcash Global en Español (2024) and Q4 2024","Zcash Español","Grantee / lead",F+"zcash-global-en-espanol-q4/49019","Nov 2024","Completed"))
 for n in ["Aura Brito (AuraBritoSM on the forum)","Edickson González (Edicksonjga on the forum)","Robmarn (on the forum)","Roosevelt Gordones"]:
     add(n,("Zcash Global en Español Q4 2024","Zcash Español","Named team member ('The Zcash en Español team consists of 5 members')",F+"zcash-global-en-espanol-q4/49019","Nov 2024","Completed"))

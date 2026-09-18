@@ -2,7 +2,7 @@
 
 Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash Community Grant (ZCG), 2021 to September 2026.
 
-**Result: 72 of 200 ZCAP members (36%)** — 44 direct grantees, 28 named team members of a grantee. A further 8 are indirectly connected through a grantee organisation and 2 were approved but paid nothing.
+**Result: 72 of 200 ZCAP members (36%)** — 44 direct grantees, 28 named team members of a grantee. Two more were approved but paid nothing.
 
 - `zcap-zcg-grants.csv` — one row per member/grant with project, org, role, proposal link, first payment, status.
 - `zcap-zcg.html` — the same as a filterable page (also at https://claude.ai/artifact/PHduP7iegoVQkY5ihoTsX7).
@@ -12,7 +12,7 @@ Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash
 ## Rules
 
 - Founders' reward and ECC / ZF employment do not count. ZF or ECC people who separately took a ZCG grant do (DecentralistDan, Taylor Hornby).
-- Being part of an organisation that received a grant counts. Named, compensated team members are "Named grant team member"; org membership without a named grant role (ZecHub DAO, ZecHub ambassadors, a Zcash Español club lead) is "Org member (indirect)".
+- Being on the actual team of an organisation that received a grant counts (named in the application, or staff of the grantee). DAO membership, ambassador programs and unpaid advisor roles do not.
 - A cancelled grant counts only if a milestone was actually paid.
 - Unpaid advisors do not count.
 

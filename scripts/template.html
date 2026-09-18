@@ -37,7 +37,6 @@ a{color:var(--b)}
  <div class="tile hi"><b>__RECIP__</b><span>ZCG recipients (direct + named team)</span></div>
  <div class="tile"><b>__DIRECT__</b><span>Direct grantees</span></div>
  <div class="tile"><b>__TEAM__</b><span>Named grant team members</span></div>
- <div class="tile"><b>__ORG__</b><span>Org members, indirect</span></div>
  <div class="tile"><b>__UNPAID__</b><span>Approved, $0 paid</span></div>
  <div class="tile"><b>__N__</b><span>ZCAP members total</span></div>
 </div>
@@ -47,7 +46,6 @@ a{color:var(--b)}
  <button data-f="recip">Recipients</button>
  <button data-f="Direct grantee">Direct</button>
  <button data-f="Named grant team member">Team</button>
- <button data-f="Org member (indirect)">Org</button>
  <button data-f="Approved, $0 paid">$0 paid</button>
  <button data-f="ZF / ECC (excluded by rule)">ZF / ECC</button>
  <button data-f="">Not matched</button>
@@ -55,8 +53,7 @@ a{color:var(--b)}
 <div class="wrap"><table id="t"><thead><tr><th>ZCAP member</th><th>Handle</th><th>Joined</th><th>Tier</th><th>Project</th><th>Grantee org</th><th>Role / evidence</th><th>Proposal</th><th>Date</th><th>Status</th></tr></thead><tbody></tbody></table></div>
 <ul class="notes">
  <li><b>Direct grantee</b>: the grant is in their name or they are the application owner / project lead.</li>
- <li><b>Named grant team member</b>: listed by name in the grant with a role (most with a stated monthly fee), or staff of the grantee org.</li>
- <li><b>Org member, indirect</b>: belongs to the grantee organisation (ZecHub DAO, a Zcash Español club) without being a named grant team member.</li>
+ <li><b>Named grant team member</b>: listed by name in the grant with a role (most with a stated monthly fee), or staff of the grantee org. DAO membership, ambassador programs and unpaid advisor roles do not count.</li>
  <li>Pre-December-2024 grants predate the GitHub repo; those link to the forum or the ZF grants platform.</li>
 </ul>
 <script>

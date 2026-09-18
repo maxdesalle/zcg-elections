@@ -97,17 +97,8 @@
 "name": "AidenZ (on the forum)",
 "handle": "AidenZ",
 "joined": "November 2022",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "ZecHub (2023, 2024, 2025, 2026)",
-"org": "ZecHub",
-"role": "ZecHub DAO member (listed at zechub.wiki/dao); DAO governs the ZCG-funded bounty pool. Not a named core-team grantee.",
-"link": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9",
-"date": "—",
-"status": "DAO member"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "Alex Bornstein",
@@ -136,14 +127,6 @@
 "link": "https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077",
 "date": "Jan 2024",
 "status": "Completed"
-},
-{
-"project": "ZecHub (2023, 2024, 2025, 2026)",
-"org": "ZecHub",
-"role": "ZecHub DAO member (listed at zechub.wiki/dao); DAO governs the ZCG-funded bounty pool. Not a named core-team grantee.",
-"link": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9",
-"date": "—",
-"status": "DAO member"
 }
 ]
 },
@@ -256,25 +239,8 @@
 "name": "artkor (on the forum)",
 "handle": "@RuZcash",
 "joined": "May 2021",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "ZecHub (2023, 2024, 2025, 2026)",
-"org": "ZecHub",
-"role": "ZecHub DAO member (listed at zechub.wiki/dao); DAO governs the ZCG-funded bounty pool. Not a named core-team grantee.",
-"link": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9",
-"date": "—",
-"status": "DAO member"
-},
-{
-"project": "ZecHub: Proposal 2024",
-"org": "ZecHub",
-"role": "ZecHub contributor / Global Ambassador. Also a ZecHub Global Ambassador (Jan 2024 report)",
-"link": "https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077",
-"date": "2024",
-"status": "Contributor"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "Arya Solhi",
@@ -995,25 +961,8 @@
 "name": "Jason McGee (aquietinvestor on the forum)",
 "handle": "aquietinvestor",
 "joined": "December 2021",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "ZecHub (2023, 2024, 2025, 2026)",
-"org": "ZecHub",
-"role": "ZecHub DAO member (listed at zechub.wiki/dao); DAO governs the ZCG-funded bounty pool. Not a named core-team grantee.",
-"link": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9",
-"date": "—",
-"status": "DAO member"
-},
-{
-"project": "ZecHub: Proposal 2024 (ZSA Education Project)",
-"org": "ZecHub",
-"role": "ZecHub contributor: 'Thanks to @aquietinvestor @robmarn & @vivek for putting it together' (Mar 2024 report)",
-"link": "https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077",
-"date": "2024",
-"status": "Contributor"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "Jason Davies",
@@ -1261,17 +1210,8 @@
 "name": "LaDale Terrell (Lowo88 on forum)",
 "handle": "Lowo88",
 "joined": "May 2024",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "ZecHub (2023, 2024, 2025, 2026)",
-"org": "ZecHub",
-"role": "ZecHub DAO member (listed at zechub.wiki/dao); DAO governs the ZCG-funded bounty pool. Not a named core-team grantee.",
-"link": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9",
-"date": "—",
-"status": "DAO member"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "Liz Steininger",
@@ -1581,17 +1521,8 @@
 "name": "Olek (on the forum)",
 "handle": "Olek",
 "joined": "September 2023",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "ZecHub: Proposal 2024",
-"org": "ZecHub",
-"role": "ZecHub contributor / Global Ambassador. Named in ZecHub Jan 2024 report: 'we commend @tim_ukrainian, @yoditar, @artkor and @Olek ... translated newsletters' (Global Ambassador program)",
-"link": "https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077",
-"date": "2024",
-"status": "Contributor"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "Olli Tiainen",
@@ -1660,17 +1591,8 @@
 "name": "Palmar",
 "handle": "palmar",
 "joined": "August 2026",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "Zcash Global en Español 2025 / 2026 (Club Zcash Querétaro)",
-"org": "Zcash Español",
-"role": "Runs Club Zcash Querétaro, a Zcash Español program funded by the grant; not a named/compensated team member",
-"link": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/157",
-"date": "Feb 2025",
-"status": "Completed/Open"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "Patrick  Diniz",
@@ -2060,17 +1982,8 @@
 "name": "Tim",
 "handle": "tim_ukrainian",
 "joined": "May 2021",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "ZecHub: Proposal 2024",
-"org": "ZecHub",
-"role": "ZecHub contributor / Global Ambassador. Named in ZecHub Jan 2024 report: 'we commend @tim_ukrainian, @yoditar, @artkor and @Olek for their continued involvement & translated newsletters' (Global Ambassador program)",
-"link": "https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077",
-"date": "2024",
-"status": "Contributor"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "Tm3k (on the forum)",
@@ -2321,17 +2234,8 @@
 "name": "Zerodartz (on the forum)",
 "handle": "zerodartz",
 "joined": "May 2024",
-"tier": "Org member (indirect)",
-"grants": [
-{
-"project": "ZecHub (2023, 2024, 2025, 2026)",
-"org": "ZecHub",
-"role": "ZecHub DAO member (listed at zechub.wiki/dao); DAO governs the ZCG-funded bounty pool. Not a named core-team grantee.",
-"link": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9",
-"date": "—",
-"status": "DAO member"
-}
-]
+"tier": "",
+"grants": []
 },
 {
 "name": "zk_nd3r",
