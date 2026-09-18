@@ -1,0 +1,77 @@
+<title>ZCAP × ZCG Grants</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+:root{--bg:#f7f6f2;--ink:#1c1f2a;--mute:#5d6170;--line:#d9d7cf;--card:#ffffff;--acc:#c4901a;--accsoft:#f6e7bf;--a:#1f6f5f;--asoft:#d9efe7;--b:#345c9c;--bsoft:#dbe6f7;--c:#7a6a3a;--csoft:#efe8d3;--d:#8a3b3b;--dsoft:#f3dcdc;--z:#666a75;--zsoft:#e6e6e8;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15171e;--ink:#ecebe6;--mute:#a4a7b3;--line:#33363f;--card:#1e2129;--acc:#e4b14a;--accsoft:#3a3220;--a:#7fd3bd;--asoft:#1c3a33;--b:#9bbcf0;--bsoft:#1d2c48;--c:#d9c48a;--csoft:#3a331e;--d:#f0a0a0;--dsoft:#3f2323;--z:#a9acb6;--zsoft:#2a2c33}}
+:root[data-theme="dark"]{--bg:#15171e;--ink:#ecebe6;--mute:#a4a7b3;--line:#33363f;--card:#1e2129;--acc:#e4b14a;--accsoft:#3a3220;--a:#7fd3bd;--asoft:#1c3a33;--b:#9bbcf0;--bsoft:#1d2c48;--c:#d9c48a;--csoft:#3a331e;--d:#f0a0a0;--dsoft:#3f2323;--z:#a9acb6;--zsoft:#2a2c33}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif;padding-block:32px;padding-inline:clamp(16px,4vw,48px)}
+h1{font:600 clamp(28px,4vw,40px)/1.1 "Fraunces","Iowan Old Style",Georgia,serif;margin:0 0 8px;text-wrap:balance}
+.lede{max-width:68ch;color:var(--mute);margin:0 0 24px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:24px}
+.tile{background:var(--card);border:1px solid var(--line);padding:12px 14px;border-radius:6px}
+.tile b{display:block;font:600 30px/1 "Fraunces",Georgia,serif;font-variant-numeric:tabular-nums}
+.tile span{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--mute)}
+.tile.hi{border-color:var(--acc);background:var(--accsoft)}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
+.bar input{flex:1 1 220px;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);font:inherit}
+.bar button{padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);font:500 13px "IBM Plex Sans",sans-serif;cursor:pointer}
+.bar button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.bar button:focus-visible,.bar input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.wrap{overflow-x:auto;border:1px solid var(--line);border-radius:6px;background:var(--card)}
+table{border-collapse:collapse;width:100%;min-width:900px;font-size:14px}
+th{position:sticky;top:0;background:var(--card);text-align:left;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--mute);padding:10px 12px;border-bottom:1px solid var(--line)}
+td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr.first td{border-top:2px solid var(--line)}
+td.name{font-weight:600;white-space:nowrap}
+td.h{font:13px "IBM Plex Mono",monospace;color:var(--mute);white-space:nowrap}
+.pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;font-weight:500;white-space:nowrap}
+.pA{background:var(--asoft);color:var(--a)}.pB{background:var(--bsoft);color:var(--b)}.pC{background:var(--csoft);color:var(--c)}.pD{background:var(--dsoft);color:var(--d)}.pZ{background:var(--zsoft);color:var(--z)}.pN{color:var(--mute)}
+a{color:var(--b)}
+.role{color:var(--mute);font-size:13px}
+.notes{max-width:72ch;color:var(--mute);font-size:13px;margin-top:20px}
+.notes li{margin-bottom:4px}
+</style>
+<h1>ZCAP × ZCG Grants</h1>
+<p class="lede">Every Zcash Community Advisory Panel member cross-referenced against the ZCG grants ledger (2021 to Sep 2026) and the ZCG GitHub applications. Founders rewards and ECC / ZF employment are not counted; ZF or ECC people who separately took a ZCG grant are.</p>
+<div class="tiles">
+ <div class="tile hi"><b>__RECIP__</b><span>ZCG recipients (direct + named team)</span></div>
+ <div class="tile"><b>__DIRECT__</b><span>Direct grantees</span></div>
+ <div class="tile"><b>__TEAM__</b><span>Named grant team members</span></div>
+ <div class="tile"><b>__ORG__</b><span>Org members, indirect</span></div>
+ <div class="tile"><b>__UNPAID__</b><span>Approved, $0 paid</span></div>
+ <div class="tile"><b>__N__</b><span>ZCAP members total</span></div>
+</div>
+<div class="bar">
+ <input id="q" type="search" placeholder="Search name, handle, project, org…" aria-label="Search">
+ <button data-f="all" aria-pressed="true">All</button>
+ <button data-f="recip">Recipients</button>
+ <button data-f="Direct grantee">Direct</button>
+ <button data-f="Named grant team member">Team</button>
+ <button data-f="Org member (indirect)">Org</button>
+ <button data-f="Approved, $0 paid">$0 paid</button>
+ <button data-f="ZF / ECC (excluded by rule)">ZF / ECC</button>
+ <button data-f="">Not matched</button>
+</div>
+<div class="wrap"><table id="t"><thead><tr><th>ZCAP member</th><th>Handle</th><th>Joined</th><th>Tier</th><th>Project</th><th>Grantee org</th><th>Role / evidence</th><th>Proposal</th><th>Date</th><th>Status</th></tr></thead><tbody></tbody></table></div>
+<ul class="notes">
+ <li><b>Direct grantee</b>: the grant is in their name or they are the application owner / project lead.</li>
+ <li><b>Named grant team member</b>: listed by name in the grant with a role (most with a stated monthly fee), or staff of the grantee org.</li>
+ <li><b>Org member, indirect</b>: belongs to the grantee organisation (ZecHub DAO, a Zcash Español club) without being a named grant team member.</li>
+ <li>Pre-December-2024 grants predate the GitHub repo; those link to the forum or the ZF grants platform.</li>
+</ul>
+<script>
+const D=__DATA__;const P={"Direct grantee":"pA","Named grant team member":"pB","Org member (indirect)":"pC","Approved, $0 paid":"pD","ZF / ECC (excluded by rule)":"pZ","":"pN"};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let f="all",q="";
+function render(){const tb=document.querySelector("#t tbody");let h="";
+ for(const r of D){if(f==="recip"&&!(r.tier==="Direct grantee"||r.tier==="Named grant team member"))continue;if(f!=="all"&&f!=="recip"&&r.tier!==f)continue;
+  const blob=(r.name+" "+r.handle+" "+r.grants.map(g=>g.project+" "+g.org+" "+g.role).join(" ")).toLowerCase();if(q&&!blob.includes(q))continue;
+  const pill=`<span class="pill ${P[r.tier]}">${esc(r.tier||"Not matched")}</span>`;
+  if(!r.grants.length){h+=`<tr class="first"><td class="name">${esc(r.name)}</td><td class="h">${esc(r.handle)}</td><td>${esc(r.joined)}</td><td>${pill}</td><td colspan="6"></td></tr>`;continue;}
+  r.grants.forEach((g,i)=>{const link=g.link.startsWith("http")?`<a href="${esc(g.link)}" target="_blank" rel="noopener">${g.link.includes("issues/")?"#"+g.link.split("issues/")[1]:"forum"}</a>`:esc(g.link);
+   h+=`<tr class="${i?"":"first"}"><td class="name">${i?"":esc(r.name)}</td><td class="h">${i?"":esc(r.handle)}</td><td>${i?"":esc(r.joined)}</td><td>${i?"":pill}</td><td>${esc(g.project)}</td><td>${esc(g.org)}</td><td class="role">${esc(g.role)}</td><td>${link}</td><td>${esc(g.date)}</td><td>${esc(g.status)}</td></tr>`;});}
+ tb.innerHTML=h||`<tr><td colspan="10" class="role">No rows match.</td></tr>`;}
+document.querySelectorAll(".bar button").forEach(b=>b.addEventListener("click",()=>{document.querySelectorAll(".bar button").forEach(x=>x.setAttribute("aria-pressed","false"));b.setAttribute("aria-pressed","true");f=b.dataset.f;render();}));
+document.getElementById("q").addEventListener("input",e=>{q=e.target.value.trim().toLowerCase();render();});
+render();
+</script>
