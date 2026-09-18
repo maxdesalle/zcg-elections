@@ -9,6 +9,16 @@ Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash
 - `data/` — the two source sheets (ZCG grants ledger, ZCAP list) and the derived JSON.
 - `scripts/` — `matches.py` holds every match with its evidence; `build.py` joins it to the ZCAP list; `page.py` renders the HTML.
 
+## Derived numbers (`scripts/stats.py`)
+
+| | Count | Share of ZCAP | Share of recipients |
+|---|---|---|---|
+| Received a ZCG grant | 72 | 36% | |
+| More than one grant | 50 | 25% | 69% |
+| Received a grant after joining ZCAP | 45 | 22.5% | 63% |
+
+A "grant" is a distinct ledger grant; renewals and new quarters count separately. The after-joining figure is a lower bound: bundled series are dated by their first payment.
+
 ## Rules
 
 - Founders' reward and ECC / ZF employment do not count. ZF or ECC people who separately took a ZCG grant do (DecentralistDan, Taylor Hornby).
