@@ -7,14 +7,14 @@ Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash
 | ZCAP members | 201 | |
 | Received a ZCG grant | 72 | 36% |
 | More than one grant | 50 | 25% |
-| Received a grant after joining ZCAP | 45 | 22% |
+| Received a grant after joining ZCAP | 53 | 26% |
 
 ## Files
 
 - `zcap-zcg-grants.csv` — one row per member and grant: project, org, role, evidence, proposal link, first payment, status
 - `zcap-zcg.html` — the same as a filterable page
 - `data/` — the ZCG ledger, the ZCAP list, and the derived JSON
-- `scripts/` — `matches.py` (every match with its evidence), `build.py`, `page.py`, `stats.py`
+- `scripts/` — `matches.py` (every match with its evidence), `build.py`, `page.py`, `stats.py`, `after_join.py`
 - `audit/` — twelve independent adversarial re-verifications of every row
 
 ## Rules

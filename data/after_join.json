@@ -1,0 +1,1310 @@
+[
+ {
+  "member": "Vivek Arte",
+  "joined": "September 2023",
+  "grants": [
+   {
+    "project": "Assistance for Legal Compliance Activities (2024)",
+    "approved": 102546.01999999999,
+    "paid": 102546.01999999999,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "User-Control for ZSAs",
+    "approved": 649999.98,
+    "paid": 649999.98,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "ZSAs in NU7/ Zebra ZSA Integration",
+    "approved": 840000.0,
+    "paid": 840000.0,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "ZSAs in NU7, H2 2025 extension",
+    "approved": 612119.0,
+    "paid": 612119.0,
+    "first": "Aug 2025"
+   },
+   {
+    "project": "Assistance for Legal Compliance Activities (2025)",
+    "approved": 59130.0,
+    "paid": 59130.0,
+    "first": "Oct 2025"
+   },
+   {
+    "project": "OrchardZSA finalization",
+    "approved": 276558.0,
+    "paid": 276558.0,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Feature Branch Testnet and Compatible Developer Tooling",
+    "approved": 455000.0,
+    "paid": 227500.0,
+    "first": "Jun 2026"
+   }
+  ]
+ },
+ {
+  "member": "Jonathan Rouach",
+  "joined": "December 2023",
+  "grants": [
+   {
+    "project": "ZSAs in NU7/ Zebra ZSA Integration",
+    "approved": 840000.0,
+    "paid": 840000.0,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "ZSAs in NU7, H2 2025 extension",
+    "approved": 612119.0,
+    "paid": 612119.0,
+    "first": "Aug 2025"
+   },
+   {
+    "project": "Assistance for Legal Compliance Activities (2025)",
+    "approved": 59130.0,
+    "paid": 59130.0,
+    "first": "Oct 2025"
+   },
+   {
+    "project": "OrchardZSA finalization",
+    "approved": 276558.0,
+    "paid": 276558.0,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Feature Branch Testnet and Compatible Developer Tooling",
+    "approved": 455000.0,
+    "paid": 227500.0,
+    "first": "Jun 2026"
+   }
+  ]
+ },
+ {
+  "member": "Constance Beguier",
+  "joined": "September 2023",
+  "grants": [
+   {
+    "project": "ZSAs in NU7/ Zebra ZSA Integration",
+    "approved": 840000.0,
+    "paid": 840000.0,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "ZSAs in NU7, H2 2025 extension",
+    "approved": 612119.0,
+    "paid": 612119.0,
+    "first": "Aug 2025"
+   },
+   {
+    "project": "OrchardZSA finalization",
+    "approved": 276558.0,
+    "paid": 276558.0,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Feature Branch Testnet and Compatible Developer Tooling",
+    "approved": 455000.0,
+    "paid": 227500.0,
+    "first": "Jun 2026"
+   }
+  ]
+ },
+ {
+  "member": "Hanh (on the forum)",
+  "joined": "December 2021",
+  "grants": [
+   {
+    "project": "Payment Gateway with BTCPay",
+    "approved": 120000.0,
+    "paid": 120000.0,
+    "first": "Jan 2022"
+   },
+   {
+    "project": "YWallet",
+    "approved": 350000.0,
+    "paid": 350000.0,
+    "first": "Sep 2022"
+   },
+   {
+    "project": "Orchard and UA for YWallet",
+    "approved": 114400.0,
+    "paid": 114400.0,
+    "first": "Feb 2023"
+   },
+   {
+    "project": "Shielded Support for Ledger Hardware Wallets (NanoS+, NanoX)",
+    "approved": 300100.0,
+    "paid": 300100.0,
+    "first": "Jun 2023"
+   },
+   {
+    "project": "YWallet Maintenance and Minor Improvements",
+    "approved": 150000.0,
+    "paid": 150000.0,
+    "first": "Sep 2023"
+   },
+   {
+    "project": "Transparent & Shielded DEX with Maya Protocol",
+    "approved": 80000.0,
+    "paid": 80000.0,
+    "first": "May 2024"
+   },
+   {
+    "project": "Coin Voting 2.0",
+    "approved": 200000.0,
+    "paid": 200000.0,
+    "first": "May 2025"
+   },
+   {
+    "project": "Zcash Infra - 1 year",
+    "approved": 6000.0,
+    "paid": 6000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "BTCPayServer - Orchard and UA",
+    "approved": 15000.0,
+    "paid": 15000.0,
+    "first": "Nov 2025"
+   },
+   {
+    "project": "Maintenance and Improvements to Coin Voting",
+    "approved": 314000.0,
+    "paid": 210000.0,
+    "first": "Dec 2025"
+   },
+   {
+    "project": "zaino - Stability, Performance & Testing",
+    "approved": 50000.0,
+    "paid": 50000.0,
+    "first": "Aug 2026"
+   }
+  ]
+ },
+ {
+  "member": "zancas (on the forum)",
+  "joined": "May 2021",
+  "grants": [
+   {
+    "project": "Implement Orchard Funded Amendment",
+    "approved": 128520.0,
+    "paid": 128520.0,
+    "first": "Nov 2022"
+   },
+   {
+    "project": "Authentic Financial Insight",
+    "approved": 375000.0,
+    "paid": 375000.0,
+    "first": "Mar 2023"
+   },
+   {
+    "project": "Build Zaino To Deprecate Zcashd and Decentralize Zcash",
+    "approved": 283800.0,
+    "paid": 283800.0,
+    "first": "Oct 2024"
+   },
+   {
+    "project": "Zaino Completion",
+    "approved": 151240.0,
+    "paid": 94040.0,
+    "first": "May 2025"
+   },
+   {
+    "project": "Support In Person Collaboration at Z|ECC Summit in Prague",
+    "approved": 3726.01,
+    "paid": 3726.01,
+    "first": "Jun 2025"
+   },
+   {
+    "project": "Zaino Respecification, No Delay",
+    "approved": 54560.0,
+    "paid": 54560.0,
+    "first": "Aug 2025"
+   },
+   {
+    "project": "Zaino, The Zallet Release",
+    "approved": 69811.2,
+    "paid": 69811.2,
+    "first": "Sep 2025"
+   },
+   {
+    "project": "Zingo Labs Hackfest",
+    "approved": 25500.23,
+    "paid": 25500.23,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Zaino Release Stabilization",
+    "approved": 200000.0,
+    "paid": 200000.0,
+    "first": "Jun 2026"
+   }
+  ]
+ },
+ {
+  "member": "dismad (on the forum)",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "ZecHub",
+    "approved": 71590.18,
+    "paid": 71590.18,
+    "first": "Mar 2023"
+   },
+   {
+    "project": "ZecHub, An open source education hub for Zcash",
+    "approved": 44980.0,
+    "paid": 44980.0,
+    "first": "Jan 2024"
+   },
+   {
+    "project": "ZecHub: an education hub for Zcash",
+    "approved": 34440.0,
+    "paid": 34440.0,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "ZecHub 2025: An Education Hub for Zcash",
+    "approved": 238303.0,
+    "paid": 238303.0,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "ZecHub 2026",
+    "approved": 433079.25,
+    "paid": 307639.25,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "zksquirrel",
+  "joined": "November 2022",
+  "grants": [
+   {
+    "project": "ZecHub",
+    "approved": 71590.18,
+    "paid": 71590.18,
+    "first": "Mar 2023"
+   },
+   {
+    "project": "ZecHub, An open source education hub for Zcash",
+    "approved": 44980.0,
+    "paid": 44980.0,
+    "first": "Jan 2024"
+   },
+   {
+    "project": "ZecHub: an education hub for Zcash",
+    "approved": 34440.0,
+    "paid": 34440.0,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "ZecHub 2025: An Education Hub for Zcash",
+    "approved": 238303.0,
+    "paid": 238303.0,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "ZecHub 2026",
+    "approved": 433079.25,
+    "paid": 307639.25,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Paul Brigner",
+  "joined": "November 2022",
+  "grants": [
+   {
+    "project": "PGP* (Pretty Good Policy) for Crypto Events",
+    "approved": 20000.0,
+    "paid": 20000.0,
+    "first": "Sep 2025"
+   },
+   {
+    "project": "Cypherpunk Policy Dinner (“CPD”) ZCG Anchor Sponsorship",
+    "approved": 25000.0,
+    "paid": 25000.0,
+    "first": "May 2026"
+   },
+   {
+    "project": "Pretty Good Policy for Zcash",
+    "approved": 750000.0,
+    "paid": 248750.0,
+    "first": "Sep 2026"
+   }
+  ]
+ },
+ {
+  "member": "J.W. Verret",
+  "joined": "November 2022",
+  "grants": [
+   {
+    "project": "Pretty Good Policy for Zcash",
+    "approved": 750000.0,
+    "paid": 248750.0,
+    "first": "Sep 2026"
+   }
+  ]
+ },
+ {
+  "member": "vito (on the forum)",
+  "joined": "May 2024",
+  "grants": [
+   {
+    "project": "Zcash Global <> Zcash Brazil Q3 2024",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil - Q4",
+    "approved": 12780.0,
+    "paid": 12780.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "ZecHub 2025: An Education Hub for Zcash",
+    "approved": 238303.0,
+    "paid": 238303.0,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "ZecHub 2026",
+    "approved": 433079.25,
+    "paid": 307639.25,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Michae2xl (on the forum)",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "Zcash Brazil 2023",
+    "approved": 41208.0,
+    "paid": 41208.0,
+    "first": "Jan 2023"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Jan 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil Q2 2024",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Apr 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil Q3 2024",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil - Q4",
+    "approved": 12780.0,
+    "paid": 12780.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "Zcash Brazil | 2025",
+    "approved": 206582.43,
+    "paid": 206582.43,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "Zcash Brazil 2026",
+    "approved": 344985.0,
+    "paid": 245650.0,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "David Boyer",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "Zcash Media 2023",
+    "approved": 600000.0,
+    "paid": 600000.0,
+    "first": "Mar 2023"
+   }
+  ]
+ },
+ {
+  "member": "Natasha Mynhier",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "Zcash Media 2023",
+    "approved": 600000.0,
+    "paid": 600000.0,
+    "first": "Mar 2023"
+   }
+  ]
+ },
+ {
+  "member": "readymouse",
+  "joined": "November 2025",
+  "grants": [
+   {
+    "project": "Grassroots Marketing at ETHDenver 2026",
+    "approved": 9000.0,
+    "paid": 9000.0,
+    "first": "Jan 2026"
+   },
+   {
+    "project": "Marketing at ETHCC + Exxxotica, Chicago",
+    "approved": 18510.0,
+    "paid": 18510.0,
+    "first": "Mar 2026"
+   },
+   {
+    "project": "Marketing at Berlin Blockchain Week & 2-Day Event with WebZero",
+    "approved": 63820.0,
+    "paid": 63820.0,
+    "first": "Apr 2026"
+   },
+   {
+    "project": "Grassroots Marketing Team at DWeb Camp",
+    "approved": 10200.0,
+    "paid": 10200.0,
+    "first": "May 2026"
+   },
+   {
+    "project": "ZECsy Team in Amsterdam",
+    "approved": 30000.0,
+    "paid": 30000.0,
+    "first": "Jul 2026"
+   },
+   {
+    "project": "ZECsy Community Building: 12 Months of Zcash on the Ground [Revised]",
+    "approved": 461497.0,
+    "paid": 45833.0,
+    "first": "Sep 2026"
+   }
+  ]
+ },
+ {
+  "member": "E-zec on the forum",
+  "joined": "May 2024",
+  "grants": [
+   {
+    "project": "Zcash Global <> Zcash Brazil Q3 2024",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil - Q4",
+    "approved": 12780.0,
+    "paid": 12780.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "Zcash Brazil | 2025",
+    "approved": 206582.43,
+    "paid": 206582.43,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "Zcash Brazil 2026",
+    "approved": 344985.0,
+    "paid": 245650.0,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Iogy (on the forum)",
+  "joined": "November 2024",
+  "grants": [
+   {
+    "project": "Zcash Brazil | 2025",
+    "approved": 206582.43,
+    "paid": 206582.43,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "Zcash Brazil 2026",
+    "approved": 344985.0,
+    "paid": 245650.0,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Minevg (on the forum)",
+  "joined": "November 2024",
+  "grants": [
+   {
+    "project": "Zcash Brazil | 2025",
+    "approved": 206582.43,
+    "paid": 206582.43,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "Zcash Brazil 2026",
+    "approved": 344985.0,
+    "paid": 245650.0,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "fabacab",
+  "joined": "May 2026",
+  "grants": [
+   {
+    "project": "ZECsy Team in Amsterdam",
+    "approved": 30000.0,
+    "paid": 30000.0,
+    "first": "Jul 2026"
+   },
+   {
+    "project": "ZECsy Community Building: 12 Months of Zcash on the Ground [Revised]",
+    "approved": 461497.0,
+    "paid": 45833.0,
+    "first": "Sep 2026"
+   }
+  ]
+ },
+ {
+  "member": "Roosevelt Gordones",
+  "joined": "September 2023",
+  "grants": [
+   {
+    "project": "Generation Z - Educational camp for youth",
+    "approved": 3500.0,
+    "paid": 3500.0,
+    "first": "Aug 2024"
+   },
+   {
+    "project": "Zcash Global en Español",
+    "approved": 9000.0,
+    "paid": 9000.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "Zcash Global en Español 2025",
+    "approved": 72000.0,
+    "paid": 72000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Grant Proposal for Zk Av Club Community Support 2025",
+    "approved": 60000.0,
+    "paid": 60000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Zcash Global en Español 2026",
+    "approved": 111100.0,
+    "paid": 75100.0,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Zcash Community Media Infrastructure & Support | Zk Av Club 2026",
+    "approved": 228545.01999999996,
+    "paid": 164393.77999999997,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Aura Brito (AuraBritoSM on the forum)",
+  "joined": "May 2024",
+  "grants": [
+   {
+    "project": "Zcash Global en Español",
+    "approved": 9000.0,
+    "paid": 9000.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "Zcash Global en Español 2025",
+    "approved": 72000.0,
+    "paid": 72000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Grant Proposal for Zk Av Club Community Support 2025",
+    "approved": 60000.0,
+    "paid": 60000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Zcash Global en Español 2026",
+    "approved": 111100.0,
+    "paid": 75100.0,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Zcash Community Media Infrastructure & Support | Zk Av Club 2026",
+    "approved": 228545.01999999996,
+    "paid": 164393.77999999997,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Kit Sturgeon (mrkit2u on the forum)",
+  "joined": "May 2024",
+  "grants": [
+   {
+    "project": "red·bridge Launch (approved Jun 2026, not yet in ledger)",
+    "approved": 477658,
+    "paid": 0,
+    "first": "Jun 2026"
+   }
+  ]
+ },
+ {
+  "member": "Arlo Byrne (idky137 on the forum)",
+  "joined": "December 2024",
+  "grants": [
+   {
+    "project": "Zaino Completion",
+    "approved": 151240.0,
+    "paid": 94040.0,
+    "first": "May 2025"
+   },
+   {
+    "project": "Zaino Respecification, No Delay",
+    "approved": 54560.0,
+    "paid": 54560.0,
+    "first": "Aug 2025"
+   },
+   {
+    "project": "Zaino, The Zallet Release",
+    "approved": 69811.2,
+    "paid": 69811.2,
+    "first": "Sep 2025"
+   },
+   {
+    "project": "Zaino Release Stabilization",
+    "approved": 200000.0,
+    "paid": 200000.0,
+    "first": "Jun 2026"
+   }
+  ]
+ },
+ {
+  "member": "Skylar Saveland",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "Free2Z legal expenses reimbursement",
+    "approved": 12037.0,
+    "paid": 12037.0,
+    "first": "Jun 2022"
+   },
+   {
+    "project": "Free2Z",
+    "approved": 123000.0,
+    "paid": 123000.0,
+    "first": "Jul 2022"
+   },
+   {
+    "project": "Free2Z: Preparing the Garden For Spring",
+    "approved": 333000.0,
+    "paid": 333000.0,
+    "first": "Mar 2023"
+   }
+  ]
+ },
+ {
+  "member": "Kroy",
+  "joined": "November 2024",
+  "grants": [
+   {
+    "project": "ZecHub 2026",
+    "approved": 433079.25,
+    "paid": 307639.25,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Tron",
+  "joined": "December 2025",
+  "grants": [
+   {
+    "project": "ZecHub 2026",
+    "approved": 433079.25,
+    "paid": 307639.25,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Pacu",
+  "joined": "November 2022",
+  "grants": [
+   {
+    "project": "Zcash Wallet Community Developer",
+    "approved": 70778.0,
+    "paid": 70778.0,
+    "first": "Aug 2023"
+   },
+   {
+    "project": "Zcash Wallet Community Developer 2024",
+    "approved": 45200.0,
+    "paid": 45200.0,
+    "first": "Feb 2024"
+   },
+   {
+    "project": "Zcash Wallet Community Developer 2024 Q2",
+    "approved": 45000.0,
+    "paid": 45000.0,
+    "first": "Jun 2024"
+   },
+   {
+    "project": "Developer Relations Engineer",
+    "approved": 247000.0,
+    "paid": 247000.0,
+    "first": "Mar 2026"
+   }
+  ]
+ },
+ {
+  "member": "Rene Vergara (pitmutt on the forum)",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "ZGo - The Zcash Register",
+    "approved": 114200.0,
+    "paid": 114200.0,
+    "first": "Jun 2022"
+   },
+   {
+    "project": "ZGo Support 2024",
+    "approved": 16100.0,
+    "paid": 16100.0,
+    "first": "Feb 2024"
+   },
+   {
+    "project": "Zenith Full Node Wallet",
+    "approved": 124800.0,
+    "paid": 124800.0,
+    "first": "May 2024"
+   },
+   {
+    "project": "ZGo 2025 (Retroactive)",
+    "approved": 138800.0,
+    "paid": 138800.0,
+    "first": "Dec 2025"
+   }
+  ]
+ },
+ {
+  "member": "AAmandita",
+  "joined": "July 2025",
+  "grants": [
+   {
+    "project": "Zcash Brazil 2026",
+    "approved": 344985.0,
+    "paid": 245650.0,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Robmarn (on the forum)",
+  "joined": "October 2025",
+  "grants": [
+   {
+    "project": "Zcash Global en Español 2026",
+    "approved": 111100.0,
+    "paid": 75100.0,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Zcash Community Media Infrastructure & Support | Zk Av Club 2026",
+    "approved": 228545.01999999996,
+    "paid": 164393.77999999997,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Dorian",
+  "joined": "May 2025",
+  "grants": [
+   {
+    "project": "Zaino Respecification, No Delay",
+    "approved": 54560.0,
+    "paid": 54560.0,
+    "first": "Aug 2025"
+   },
+   {
+    "project": "Zaino, The Zallet Release",
+    "approved": 69811.2,
+    "paid": 69811.2,
+    "first": "Sep 2025"
+   },
+   {
+    "project": "Zaino Release Stabilization",
+    "approved": 200000.0,
+    "paid": 200000.0,
+    "first": "Jun 2026"
+   }
+  ]
+ },
+ {
+  "member": "Ryan Taylor",
+  "joined": "September 2023",
+  "grants": [
+   {
+    "project": "Grant Proposal for Zk Av Club Community Support 2025",
+    "approved": 60000.0,
+    "paid": 60000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Zcash Community Media Infrastructure & Support | Zk Av Club 2026",
+    "approved": 228545.01999999996,
+    "paid": 164393.77999999997,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "James Katz",
+  "joined": "October 2023",
+  "grants": [
+   {
+    "project": "Zcash Global <> Zcash Brazil",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Jan 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil Q2 2024",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Apr 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil Q3 2024",
+    "approved": 16800.0,
+    "paid": 16800.0,
+    "first": "Jul 2024"
+   },
+   {
+    "project": "Zcash Global <> Zcash Brazil - Q4",
+    "approved": 12780.0,
+    "paid": 12780.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "Zcash Brazil | 2025",
+    "approved": 206582.43,
+    "paid": 206582.43,
+    "first": "Jan 2025"
+   }
+  ]
+ },
+ {
+  "member": "Edickson González (Edicksonjga on the forum)",
+  "joined": "September 2023",
+  "grants": [
+   {
+    "project": "Zcash Global en Español",
+    "approved": 9000.0,
+    "paid": 9000.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "Zcash Global en Español 2025",
+    "approved": 72000.0,
+    "paid": 72000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Zcash Global en Español 2026",
+    "approved": 111100.0,
+    "paid": 75100.0,
+    "first": "Feb 2026"
+   }
+  ]
+ },
+ {
+  "member": "Yoditar (on the forum)",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "Zcash Global en Español",
+    "approved": 9000.0,
+    "paid": 9000.0,
+    "first": "Nov 2024"
+   },
+   {
+    "project": "Zcash Global en Español 2025",
+    "approved": 72000.0,
+    "paid": 72000.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Zcash Global en Español 2026",
+    "approved": 111100.0,
+    "paid": 75100.0,
+    "first": "Feb 2026"
+   }
+  ]
+ },
+ {
+  "member": "Eric Tu",
+  "joined": "May 2025",
+  "grants": [
+   {
+    "project": "Chainsafe Systems",
+    "approved": 168000.0,
+    "paid": 168000.0,
+    "first": "Aug 2025"
+   }
+  ]
+ },
+ {
+  "member": "Taylor Hornby",
+  "joined": "May 2021",
+  "grants": [
+   {
+    "project": "Zcash Ecosystem Security Lead",
+    "approved": 158500.0,
+    "paid": 158500.0,
+    "first": "Nov 2022"
+   }
+  ]
+ },
+ {
+  "member": "Harry Halpin",
+  "joined": "May 2021",
+  "grants": [
+   {
+    "project": "The Nym mixnet for Network Privacy for Zcash",
+    "approved": 150000.0,
+    "paid": 95000.0,
+    "first": "Oct 2024"
+   }
+  ]
+ },
+ {
+  "member": "Olli Tiainen",
+  "joined": "November 2025",
+  "grants": [
+   {
+    "project": "ZEC-NAM shielded airdrop protocol",
+    "approved": 150000.0,
+    "paid": 150000.0,
+    "first": "Jan 2026"
+   }
+  ]
+ },
+ {
+  "member": "Batuhanyldrm",
+  "joined": "November 2024",
+  "grants": [
+   {
+    "project": "Zcash Global Turkish 2025",
+    "approved": 5700.0,
+    "paid": 5700.0,
+    "first": "Jan 2025"
+   },
+   {
+    "project": "Zcash Global Turkiye Q2",
+    "approved": 10400.0,
+    "paid": 10400.0,
+    "first": "May 2025"
+   },
+   {
+    "project": "Zcash Global Türkish 2025 Q3-4",
+    "approved": 10400.0,
+    "paid": 10400.0,
+    "first": "Sep 2025"
+   },
+   {
+    "project": "Zcash Türkiye 2026 Q1-2",
+    "approved": 26400.0,
+    "paid": 26400.0,
+    "first": "Jan 2026"
+   },
+   {
+    "project": "Zcash Türkiye – Sustainability and the ZBase Vision",
+    "approved": 31000.0,
+    "paid": 31000.0,
+    "first": "Feb 2026"
+   },
+   {
+    "project": "Zcash Marketing at Istanbul Blockchain Week & Community Activation",
+    "approved": 15900.0,
+    "paid": 15900.0,
+    "first": "Apr 2026"
+   },
+   {
+    "project": "Zcash Türkiye 2026 Q3-4 - 2027 Q1-2-3-4",
+    "approved": 26400.0,
+    "paid": 13200.0,
+    "first": "Jun 2026"
+   },
+   {
+    "project": "Zcash Turkiye RLAY HUB Event",
+    "approved": 6870.0,
+    "paid": 6870.0,
+    "first": "Jul 2026"
+   }
+  ]
+ },
+ {
+  "member": "Chidi",
+  "joined": "November 2022",
+  "grants": [
+   {
+    "project": "Zcash Nigeria 2025",
+    "approved": 9600.0,
+    "paid": 9600.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2025 v.2.0 ( May-july)",
+    "approved": 9600.0,
+    "paid": 9600.0,
+    "first": "Jun 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2025 (August - October)",
+    "approved": 9600.0,
+    "paid": 9600.0,
+    "first": "Sep 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2025 (November - December)",
+    "approved": 6400.0,
+    "paid": 6400.0,
+    "first": "Dec 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2026",
+    "approved": 68600.0,
+    "paid": 43400.0,
+    "first": "Mar 2026"
+   }
+  ]
+ },
+ {
+  "member": "Hardaeborla",
+  "joined": "November 2024",
+  "grants": [
+   {
+    "project": "Zcash Nigeria 2025",
+    "approved": 9600.0,
+    "paid": 9600.0,
+    "first": "Feb 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2025 v.2.0 ( May-july)",
+    "approved": 9600.0,
+    "paid": 9600.0,
+    "first": "Jun 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2025 (August - October)",
+    "approved": 9600.0,
+    "paid": 9600.0,
+    "first": "Sep 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2025 (November - December)",
+    "approved": 6400.0,
+    "paid": 6400.0,
+    "first": "Dec 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2026",
+    "approved": 68600.0,
+    "paid": 43400.0,
+    "first": "Mar 2026"
+   }
+  ]
+ },
+ {
+  "member": "Cjfrankie",
+  "joined": "October 2025",
+  "grants": [
+   {
+    "project": "Zcash Nigeria 2025 (November - December)",
+    "approved": 6400.0,
+    "paid": 6400.0,
+    "first": "Dec 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2026",
+    "approved": 68600.0,
+    "paid": 43400.0,
+    "first": "Mar 2026"
+   }
+  ]
+ },
+ {
+  "member": "emmalexo",
+  "joined": "November 2025",
+  "grants": [
+   {
+    "project": "Zcash Nigeria 2025 (November - December)",
+    "approved": 6400.0,
+    "paid": 6400.0,
+    "first": "Dec 2025"
+   },
+   {
+    "project": "Zcash Nigeria 2026",
+    "approved": 68600.0,
+    "paid": 43400.0,
+    "first": "Mar 2026"
+   }
+  ]
+ },
+ {
+  "member": "tokidoki (on the forum)",
+  "joined": "December 2021",
+  "grants": [
+   {
+    "project": "ZecHub",
+    "approved": 71590.18,
+    "paid": 71590.18,
+    "first": "Mar 2023"
+   }
+  ]
+ },
+ {
+  "member": "Aescobar Michael",
+  "joined": "June 2026",
+  "grants": [
+   {
+    "project": "Zcash WalletConnect Integration",
+    "approved": 50000.0,
+    "paid": 5000.0,
+    "first": "Sep 2026"
+   }
+  ]
+ },
+ {
+  "member": "1337bytes (on the forum)",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "Upgrade BTCPayServer Zcash Plugin for 2.1",
+    "approved": 21600.0,
+    "paid": 21600.0,
+    "first": "May 2025"
+   },
+   {
+    "project": "BTCPayServer Multi-Account and 0conf Mempool Support",
+    "approved": 25200.0,
+    "paid": 25200.0,
+    "first": "May 2026"
+   }
+  ]
+ },
+ {
+  "member": "Tecnopapapi (on the forum)",
+  "joined": "September 2023",
+  "grants": [
+   {
+    "project": "ZecHub, An open source education hub for Zcash",
+    "approved": 44980.0,
+    "paid": 44980.0,
+    "first": "Jan 2024"
+   }
+  ]
+ },
+ {
+  "member": "ZArabia (on the forum)",
+  "joined": "June 2026",
+  "grants": [
+   {
+    "project": "Zcash Arabia (August to December 2026)",
+    "approved": 27000.0,
+    "paid": 11000.0,
+    "first": "Aug 2026"
+   }
+  ]
+ },
+ {
+  "member": "ogasky (on the forum)",
+  "joined": "June 2026",
+  "grants": [
+   {
+    "project": "Zcash Ghana (July 2026 - September 2026)",
+    "approved": 12600.0,
+    "paid": 12600.0,
+    "first": "Jul 2026"
+   }
+  ]
+ },
+ {
+  "member": "Dre",
+  "joined": "June 2026",
+  "grants": [
+   {
+    "project": "Zcash Onboarding @ Web3Lagos Conference 2026",
+    "approved": 8240.0,
+    "paid": 8240.0,
+    "first": "Jul 2026"
+   }
+  ]
+ },
+ {
+  "member": "Tm3k (on the forum)",
+  "joined": "Before May '21",
+  "grants": [
+   {
+    "project": "Proposal to fund zcash skydives!",
+    "approved": 3300.0,
+    "paid": 3300.0,
+    "first": "Nov 2021"
+   },
+   {
+    "project": "Twitter Ambassador Program by @_tm3k",
+    "approved": 4500.0,
+    "paid": 4500.0,
+    "first": "Oct 2025"
+   }
+  ]
+ },
+ {
+  "member": "Elzz",
+  "joined": "November 2025",
+  "grants": [
+   {
+    "project": "Zcash Ecosystem Onboarding At Women in DeFi Summit 2026",
+    "approved": 4960.0,
+    "paid": 4960.0,
+    "first": "Apr 2026"
+   }
+  ]
+ },
+ {
+  "member": "gottabeJay (on the forum)",
+  "joined": "May 2022",
+  "grants": [
+   {
+    "project": "Telegram Anti Scam Bot - Grant Request",
+    "approved": 700.0,
+    "paid": 700.0,
+    "first": "May 2023"
+   }
+  ]
+ }
+]

@@ -18,9 +18,11 @@ def n_grants(r):
     return n
 rec=[r for r in d if r['tier'] in ("Direct grantee","Named grant team member")]
 multi=[r for r in rec if n_grants(r)>1]
-after=[r for r in rec if any(month(g['date']) and month(g['date'])>joined(r['joined']) for g in r['grants'])]
+after=json.load(open('data/after_join.json'))  # produced by scripts/after_join.py (grant-level dating)
 N=len(d)
 print(f"ZCAP members: {N}")
 print(f"Received a ZCG grant (direct or named team member): {len(rec)} = {100*len(rec)/N:.1f}%")
 print(f"  of which more than one grant: {len(multi)} = {100*len(multi)/len(rec):.0f}% of recipients, {100*len(multi)/N:.1f}% of ZCAP")
-print(f"  of which received a grant after joining ZCAP: {len(after)} = {100*len(after)/len(rec):.0f}% of recipients, {100*len(after)/N:.1f}% of ZCAP (lower bound: bundled series use their first payment date)")
+uniq={g["project"]:(g["approved"],g["paid"]) for r in after for g in r["grants"]}
+print(f"  of which received a grant after joining ZCAP: {len(after)} = {100*len(after)/len(rec):.0f}% of recipients, {100*len(after)/N:.1f}% of ZCAP ")
+print(f"  those {len(uniq)} grants: approved ${sum(a for a,_ in uniq.values()):,.0f}, paid to date ${sum(p for _,p in uniq.values()):,.0f}")
