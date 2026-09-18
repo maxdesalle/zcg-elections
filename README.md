@@ -2,7 +2,7 @@
 
 Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash Community Grant (ZCG), 2021 to September 2026.
 
-**Result: 72 of 200 ZCAP members (36%)** — 45 direct grantees, 27 named team members of a grantee. Two more were approved but paid nothing.
+**Result: 72 of 201 ZCAP members (36%)** — 45 direct grantees, 27 named team members of a grantee. Two more were approved but paid nothing.
 
 - `zcap-zcg-grants.csv` — one row per member/grant with project, org, role, proposal link, first payment, status.
 - `zcap-zcg.html` — the same as a filterable page (also at https://claude.ai/artifact/PHduP7iegoVQkY5ihoTsX7).
@@ -15,7 +15,7 @@ Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash
 |---|---|---|---|
 | Received a ZCG grant | 72 | 36% | |
 | More than one grant | 50 | 25% | 69% |
-| Received a grant after joining ZCAP | 45 | 22.5% | 63% |
+| Received a grant after joining ZCAP | 45 | 22.4% | 63% |
 
 A "grant" is a distinct ledger grant; renewals and new quarters count separately. The after-joining figure is a lower bound: bundled series are dated by their first payment.
 
