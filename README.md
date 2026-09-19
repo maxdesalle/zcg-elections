@@ -11,12 +11,18 @@ Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash
 
 The 48 were named on 89 grants approved after they joined ZCAP: $12,270,936 approved, $10,008,338 paid to date (`scripts/after_join.py`).
 
+## Where the money went (`scripts/concentration.py`)
+
+ZCG has paid out $20.1M to 78 grantees. The top 5 grantees received 57% of it, the top 10 76%, the top 20 90%. QEDIT alone received 29%; Hanh, one person, 8%.
+
+75% of all money paid ($15.1M, 120 of 171 paid grants) went to grants where a ZCAP member is the grantee or a named team member.
+
 ## Files
 
 - `zcap-zcg-grants.csv` — one row per member and grant: project, org, role, evidence, proposal link, first payment, status
 - `zcap-zcg.html` — the same as a filterable page
 - `data/` — the ZCG ledger, the ZCAP list, and the derived JSON
-- `scripts/` — `matches.py` (every match with its evidence), `build.py`, `page.py`, `stats.py`, `after_join.py`
+- `scripts/` — `matches.py` (every match with its evidence), `build.py`, `page.py`, `stats.py`, `after_join.py`, `concentration.py`
 - `audit/` — twelve independent adversarial re-verifications of every row
 
 ## Rules
