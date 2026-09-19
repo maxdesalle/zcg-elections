@@ -9,6 +9,8 @@ Which members of the Zcash Community Advisory Panel (ZCAP) have received a Zcash
 | More than one grant | 50 | 25% |
 | Received a grant after joining ZCAP | 48 | 24% |
 
+The 48 were named on 89 grants approved after they joined ZCAP: $12,270,936 approved, $10,008,338 paid to date (`scripts/after_join.py`).
+
 ## Files
 
 - `zcap-zcg-grants.csv` — one row per member and grant: project, org, role, evidence, proposal link, first payment, status
