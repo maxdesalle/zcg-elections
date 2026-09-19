@@ -21,3 +21,11 @@ for (p,g) in byproj:
         if any(re.search(gp,g) and re.search(pp,p) for gp,pp in pats): hit.add((p,g)); break
 z=sum(byproj[k] for k in hit)
 print(f"paid on grants with a ZCAP member as grantee or named team: ${z:,.0f} = {100*z/T:.0f}% ({len(hit)} of {len(byproj)} paid grants)")
+# by number of grants
+g2p=defaultdict(set)
+for r in rows:
+    if r[7].strip(): g2p[MERGE.get(r[1].strip(),r[1].strip()) or r[0].strip()].add(r[0].strip())
+tot=sum(len(v) for v in g2p.values()); s2=sorted(g2p.items(),key=lambda x:-len(x[1]))
+print(f"\n{tot} paid grants to {len(g2p)} grantees; {sum(1 for v in g2p.values() if len(v)>1)} grantees got more than one")
+for k in (5,10,20): print(f"  top {k:>2} grantees by count: {sum(len(v) for _,v in s2[:k])} grants = {100*sum(len(v) for _,v in s2[:k])/tot:.0f}%")
+print(f"  paid grants with a ZCAP member as grantee or named team: {len(hit)} of {len(byproj)} = {100*len(hit)/len(byproj):.0f}%")

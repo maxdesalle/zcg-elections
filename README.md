@@ -15,7 +15,9 @@ The 48 were named on 89 grants approved after they joined ZCAP: $12,270,936 appr
 
 ZCG has paid out $20.1M to 78 grantees. The top 5 grantees received 57% of it, the top 10 76%, the top 20 90%. QEDIT alone received 29%; Hanh, one person, 8%.
 
-75% of all money paid ($15.1M, 120 of 171 paid grants) went to grants where a ZCAP member is the grantee or a named team member.
+By count: 171 paid grants went to 79 grantees; 27 grantees received more than one. The top 10 grantees hold 72 grants (42%), the top 20 hold 105 (61%). Hanh alone has 12.
+
+ZCAP members are the grantee or a named team member on 120 of the 171 paid grants (70%), carrying 75% of the money ($15.1M).
 
 ## Files
 
