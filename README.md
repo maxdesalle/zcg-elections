@@ -19,6 +19,15 @@ By count: 171 paid grants went to 79 grantees; 27 grantees received more than on
 
 ZCAP members are the grantee or a named team member on 120 of the 171 paid grants (70%), carrying 75% of the money ($15.1M).
 
+## The committee itself
+
+Two of the five sitting ZCG committee members are grant recipients.
+
+- **Hanh**, elected 18 Dec 2025 with 75 approvals ([results](https://forum.zcashcommunity.com/t/53685)), has 12 paid ZCG grants worth $1.6M. While on the committee: a new $50,000 grant, [zaino Stability, Performance & Testing](https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/328), filed Jun 2026, paid Aug 2026; and $208,000 of milestone payments on [Coin Voting maintenance](https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/96) (approved Oct 2025, $314,000 total).
+- **Paul Brigner**, elected 29 Jun 2026 with 58 votes, seated 1 Jul ([results](https://forum.zcashcommunity.com/t/55720/26)). Seven weeks later his organisation filed [Pretty Good Policy for Zcash](https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/396), $750,000, listing him as founder and board chair; approved, $248,750 paid 17 Sep 2026.
+
+For scale: 72 ZCAP members are grant recipients; Hanh was elected with 75 approvals and Brigner with 58 votes.
+
 ## Files
 
 - `zcap-zcg-grants.csv` — one row per member and grant: project, org, role, evidence, proposal link, first payment, status
