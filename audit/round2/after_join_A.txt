@@ -1,0 +1,130 @@
+## Vivek Arte | joined ZCAP: September 2023
+  - Assistance for Legal Compliance Activities (2024) | approved $102,546 | paid $102,546 | first payment Jul 2024
+  - User-Control for ZSAs | approved $650,000 | paid $650,000 | first payment Jul 2024
+  - ZSAs in NU7/ Zebra ZSA Integration | approved $840,000 | paid $840,000 | first payment Jan 2025
+  - ZSAs in NU7, H2 2025 extension | approved $612,119 | paid $612,119 | first payment Aug 2025
+  - Assistance for Legal Compliance Activities (2025) | approved $59,130 | paid $59,130 | first payment Oct 2025
+  - OrchardZSA finalization | approved $276,558 | paid $276,558 | first payment Feb 2026
+  - Feature Branch Testnet and Compatible Developer Tooling | approved $455,000 | paid $227,500 | first payment Jun 2026
+## Jonathan Rouach | joined ZCAP: December 2023
+  - ZSAs in NU7/ Zebra ZSA Integration | approved $840,000 | paid $840,000 | first payment Jan 2025
+  - ZSAs in NU7, H2 2025 extension | approved $612,119 | paid $612,119 | first payment Aug 2025
+  - Assistance for Legal Compliance Activities (2025) | approved $59,130 | paid $59,130 | first payment Oct 2025
+  - OrchardZSA finalization | approved $276,558 | paid $276,558 | first payment Feb 2026
+  - Feature Branch Testnet and Compatible Developer Tooling | approved $455,000 | paid $227,500 | first payment Jun 2026
+## Constance Beguier | joined ZCAP: September 2023
+  - ZSAs in NU7/ Zebra ZSA Integration | approved $840,000 | paid $840,000 | first payment Jan 2025
+  - ZSAs in NU7, H2 2025 extension | approved $612,119 | paid $612,119 | first payment Aug 2025
+  - OrchardZSA finalization | approved $276,558 | paid $276,558 | first payment Feb 2026
+  - Feature Branch Testnet and Compatible Developer Tooling | approved $455,000 | paid $227,500 | first payment Jun 2026
+## Hanh (on the forum) | joined ZCAP: December 2021
+  - Payment Gateway with BTCPay | approved $120,000 | paid $120,000 | first payment Jan 2022
+  - YWallet | approved $350,000 | paid $350,000 | first payment Sep 2022
+  - Orchard and UA for YWallet | approved $114,400 | paid $114,400 | first payment Feb 2023
+  - Shielded Support for Ledger Hardware Wallets (NanoS+, NanoX) | approved $300,100 | paid $300,100 | first payment Jun 2023
+  - YWallet Maintenance and Minor Improvements | approved $150,000 | paid $150,000 | first payment Sep 2023
+  - Transparent & Shielded DEX with Maya Protocol | approved $80,000 | paid $80,000 | first payment May 2024
+  - Coin Voting 2.0 | approved $200,000 | paid $200,000 | first payment May 2025
+  - Zcash Infra - 1 year | approved $6,000 | paid $6,000 | first payment Feb 2025
+  - BTCPayServer - Orchard and UA | approved $15,000 | paid $15,000 | first payment Nov 2025
+  - Maintenance and Improvements to Coin Voting | approved $314,000 | paid $210,000 | first payment Dec 2025
+  - zaino - Stability, Performance & Testing | approved $50,000 | paid $50,000 | first payment Aug 2026
+## zancas (on the forum) | joined ZCAP: May 2021
+  - Implement Orchard Funded Amendment | approved $128,520 | paid $128,520 | first payment Nov 2022
+  - Authentic Financial Insight | approved $375,000 | paid $375,000 | first payment Mar 2023
+  - Build Zaino To Deprecate Zcashd and Decentralize Zcash | approved $283,800 | paid $283,800 | first payment Oct 2024
+  - Zaino Completion | approved $151,240 | paid $94,040 | first payment May 2025
+  - Support In Person Collaboration at Z|ECC Summit in Prague | approved $3,726 | paid $3,726 | first payment Jun 2025
+  - Zaino Respecification, No Delay | approved $54,560 | paid $54,560 | first payment Aug 2025
+  - Zaino, The Zallet Release | approved $69,811 | paid $69,811 | first payment Sep 2025
+  - Zingo Labs Hackfest | approved $25,500 | paid $25,500 | first payment Feb 2026
+  - Zaino Release Stabilization | approved $200,000 | paid $200,000 | first payment Jun 2026
+## dismad (on the forum) | joined ZCAP: May 2022
+  - ZecHub | approved $71,590 | paid $71,590 | first payment Mar 2023
+  - ZecHub, An open source education hub for Zcash | approved $44,980 | paid $44,980 | first payment Jan 2024
+  - ZecHub: an education hub for Zcash | approved $34,440 | paid $34,440 | first payment Jul 2024
+  - ZecHub 2025: An Education Hub for Zcash | approved $238,303 | paid $238,303 | first payment Jan 2025
+  - ZecHub 2026 | approved $433,079 | paid $307,639 | first payment Jan 2026
+## zksquirrel | joined ZCAP: November 2022
+  - ZecHub | approved $71,590 | paid $71,590 | first payment Mar 2023
+  - ZecHub, An open source education hub for Zcash | approved $44,980 | paid $44,980 | first payment Jan 2024
+  - ZecHub: an education hub for Zcash | approved $34,440 | paid $34,440 | first payment Jul 2024
+  - ZecHub 2025: An Education Hub for Zcash | approved $238,303 | paid $238,303 | first payment Jan 2025
+  - ZecHub 2026 | approved $433,079 | paid $307,639 | first payment Jan 2026
+## Paul Brigner | joined ZCAP: November 2022
+  - PGP* (Pretty Good Policy) for Crypto Events | approved $20,000 | paid $20,000 | first payment Sep 2025
+  - Cypherpunk Policy Dinner (“CPD”) ZCG Anchor Sponsorship | approved $25,000 | paid $25,000 | first payment May 2026
+  - Pretty Good Policy for Zcash | approved $750,000 | paid $248,750 | first payment Sep 2026
+## J.W. Verret | joined ZCAP: November 2022
+  - Pretty Good Policy for Zcash | approved $750,000 | paid $248,750 | first payment Sep 2026
+## vito (on the forum) | joined ZCAP: May 2024
+  - Zcash Global <> Zcash Brazil Q3 2024 | approved $16,800 | paid $16,800 | first payment Jul 2024
+  - Zcash Global <> Zcash Brazil - Q4 | approved $12,780 | paid $12,780 | first payment Nov 2024
+  - ZecHub 2025: An Education Hub for Zcash | approved $238,303 | paid $238,303 | first payment Jan 2025
+  - ZecHub 2026 | approved $433,079 | paid $307,639 | first payment Jan 2026
+## Michae2xl (on the forum) | joined ZCAP: May 2022
+  - Zcash Brazil 2023 | approved $41,208 | paid $41,208 | first payment Jan 2023
+  - Zcash Global <> Zcash Brazil | approved $16,800 | paid $16,800 | first payment Jan 2024
+  - Zcash Global <> Zcash Brazil Q2 2024 | approved $16,800 | paid $16,800 | first payment Apr 2024
+  - Zcash Global <> Zcash Brazil Q3 2024 | approved $16,800 | paid $16,800 | first payment Jul 2024
+  - Zcash Global <> Zcash Brazil - Q4 | approved $12,780 | paid $12,780 | first payment Nov 2024
+  - Zcash Brazil | 2025 | approved $206,582 | paid $206,582 | first payment Jan 2025
+  - Zcash Brazil 2026 | approved $344,985 | paid $245,650 | first payment Jan 2026
+## David Boyer | joined ZCAP: May 2022
+  - Zcash Media 2023 | approved $600,000 | paid $600,000 | first payment Mar 2023
+## Natasha Mynhier | joined ZCAP: May 2022
+  - Zcash Media 2023 | approved $600,000 | paid $600,000 | first payment Mar 2023
+## readymouse | joined ZCAP: November 2025
+  - Grassroots Marketing at ETHDenver 2026 | approved $9,000 | paid $9,000 | first payment Jan 2026
+  - Marketing at ETHCC + Exxxotica, Chicago | approved $18,510 | paid $18,510 | first payment Mar 2026
+  - Marketing at Berlin Blockchain Week & 2-Day Event with WebZero | approved $63,820 | paid $63,820 | first payment Apr 2026
+  - Grassroots Marketing Team at DWeb Camp | approved $10,200 | paid $10,200 | first payment May 2026
+  - ZECsy Team in Amsterdam | approved $30,000 | paid $30,000 | first payment Jul 2026
+  - ZECsy Community Building: 12 Months of Zcash on the Ground [Revised] | approved $461,497 | paid $45,833 | first payment Sep 2026
+## E-zec on the forum | joined ZCAP: May 2024
+  - Zcash Global <> Zcash Brazil Q3 2024 | approved $16,800 | paid $16,800 | first payment Jul 2024
+  - Zcash Global <> Zcash Brazil - Q4 | approved $12,780 | paid $12,780 | first payment Nov 2024
+  - Zcash Brazil | 2025 | approved $206,582 | paid $206,582 | first payment Jan 2025
+  - Zcash Brazil 2026 | approved $344,985 | paid $245,650 | first payment Jan 2026
+## Iogy (on the forum) | joined ZCAP: November 2024
+  - Zcash Brazil | 2025 | approved $206,582 | paid $206,582 | first payment Jan 2025
+  - Zcash Brazil 2026 | approved $344,985 | paid $245,650 | first payment Jan 2026
+## Minevg (on the forum) | joined ZCAP: November 2024
+  - Zcash Brazil | 2025 | approved $206,582 | paid $206,582 | first payment Jan 2025
+  - Zcash Brazil 2026 | approved $344,985 | paid $245,650 | first payment Jan 2026
+## fabacab | joined ZCAP: May 2026
+  - ZECsy Team in Amsterdam | approved $30,000 | paid $30,000 | first payment Jul 2026
+  - ZECsy Community Building: 12 Months of Zcash on the Ground [Revised] | approved $461,497 | paid $45,833 | first payment Sep 2026
+## Roosevelt Gordones | joined ZCAP: September 2023
+  - Generation Z - Educational camp for youth | approved $3,500 | paid $3,500 | first payment Aug 2024
+  - Zcash Global en Español | approved $9,000 | paid $9,000 | first payment Nov 2024
+  - Zcash Global en Español 2025 | approved $72,000 | paid $72,000 | first payment Feb 2025
+  - Grant Proposal for Zk Av Club Community Support 2025 | approved $60,000 | paid $60,000 | first payment Feb 2025
+  - Zcash Global en Español 2026 | approved $111,100 | paid $75,100 | first payment Feb 2026
+  - Zcash Community Media Infrastructure & Support | Zk Av Club 2026 | approved $228,545 | paid $164,394 | first payment Jan 2026
+## Aura Brito (AuraBritoSM on the forum) | joined ZCAP: May 2024
+  - Zcash Global en Español | approved $9,000 | paid $9,000 | first payment Nov 2024
+  - Zcash Global en Español 2025 | approved $72,000 | paid $72,000 | first payment Feb 2025
+  - Grant Proposal for Zk Av Club Community Support 2025 | approved $60,000 | paid $60,000 | first payment Feb 2025
+  - Zcash Global en Español 2026 | approved $111,100 | paid $75,100 | first payment Feb 2026
+  - Zcash Community Media Infrastructure & Support | Zk Av Club 2026 | approved $228,545 | paid $164,394 | first payment Jan 2026
+## Kit Sturgeon (mrkit2u on the forum) | joined ZCAP: May 2024
+  - red·bridge Launch (approved Jun 2026, not yet in ledger) | approved $477,658 | paid $0 | first payment Jun 2026
+## Arlo Byrne (idky137 on the forum) | joined ZCAP: December 2024
+  - Zaino Completion | approved $151,240 | paid $94,040 | first payment May 2025
+  - Zaino Respecification, No Delay | approved $54,560 | paid $54,560 | first payment Aug 2025
+  - Zaino, The Zallet Release | approved $69,811 | paid $69,811 | first payment Sep 2025
+  - Zaino Release Stabilization | approved $200,000 | paid $200,000 | first payment Jun 2026
+## Skylar Saveland | joined ZCAP: May 2022
+  - Free2Z legal expenses reimbursement | approved $12,037 | paid $12,037 | first payment Jun 2022
+  - Free2Z | approved $123,000 | paid $123,000 | first payment Jul 2022
+  - Free2Z: Preparing the Garden For Spring | approved $333,000 | paid $333,000 | first payment Mar 2023
+## Kroy | joined ZCAP: November 2024
+  - ZecHub 2026 | approved $433,079 | paid $307,639 | first payment Jan 2026
+## Tron | joined ZCAP: December 2025
+  - ZecHub 2026 | approved $433,079 | paid $307,639 | first payment Jan 2026
+## Pacu | joined ZCAP: November 2022
+  - Zcash Wallet Community Developer | approved $70,778 | paid $70,778 | first payment Aug 2023
+  - Zcash Wallet Community Developer 2024 | approved $45,200 | paid $45,200 | first payment Feb 2024
+  - Zcash Wallet Community Developer 2024 Q2 | approved $45,000 | paid $45,000 | first payment Jun 2024
+  - Developer Relations Engineer | approved $247,000 | paid $247,000 | first payment Mar 2026

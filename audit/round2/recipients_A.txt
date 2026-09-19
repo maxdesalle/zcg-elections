@@ -1,0 +1,99 @@
+## 1337bytes (on the forum) | ZCAP handle: 1337bytes | joined ZCAP: May 2022 | tier: Direct grantee
+  - Elemental ZEC – Zcash UI Component Kit and Payment Processor | org: Elemental ZEC | Grantee (thread author 1337bytes; ZOMG approval 2021-10-13) | https://forum.zcashcommunity.com/t/elemental-zec-ui-component-kit-and-payment-processor/40110 | first paid Dec 2021 | Completed
+  - Upgrade BTCPayServer Zcash Plugin for 2.1 | org: 1337bytes | Grantee (GitHub @macintoshhelper, blog 1337bytes.com; forum 1337bytes links #35) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/35 | first paid May 2025 | Completed
+  - BTCPayServer Multi-Account and 0conf Mempool Support | org: 1337bytes | Grantee | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/269 | first paid May 2026 | Completed
+  - BTCPayServer Multi-Store GraphQL Client | org: 1337bytes | Grantee; approved, no payout yet | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/395 | first paid approved Aug 2026 | Open, $0 paid
+## Hardaeborla | ZCAP handle:  | joined ZCAP: November 2024 | tier: Named grant team member
+  - Zcash Nigeria 2025; v2.0; Aug-Oct; Nov-Dec; 2026 | org: Zcash Nigeria | Named team member, $600/month on every application | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/14 | first paid Feb 2025 | Completed/Open
+## Aescobar Michael | ZCAP handle:  | joined ZCAP: June 2026 | tier: Named grant team member
+  - Rhea Zcash Gateway | org: Rhea Finance | Named team member 'Aescobar, Operational Lead' (forum: 'Aescobar (Michael) | COO of RHEA Finance & Core Contributor of Noir Wallet') | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/239 | first paid Apr 2026 | Completed
+  - Zcash WalletConnect Integration | org: Noir Wallet | Named team member 'Aescobar, Operational Lead' | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/391 | first paid Sep 2026 | Open
+## Tecnopapapi (on the forum) | ZCAP handle: Tecnopapapi | joined ZCAP: September 2023 | tier: Named grant team member
+  - ZecHub: Proposal 2024 | org: ZecHub | Named core team ('@Dismad @Squirrel @Tecnopapapi'; '@tecnopapapi $82 * 5hrs * 22 weeks') | https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077 | first paid Jan 2024 | Completed
+## AAmandita | ZCAP handle:  | joined ZCAP: July 2025 | tier: Named grant team member
+  - Zcash Global <> Zcash Brazil (2024) | org: Zcash Brazil | Joined the team Apr 2024 per milestone report ('2 new members ... AAmandita_') | https://forum.zcashcommunity.com/t/46295/33 | first paid Apr 2024 | Completed
+  - Zcash Brazil 2026 | org: Zcash Brazil | Team member per 2026 milestone reports ('@AAmandita: Already an integral part of the team ... interviews, Zebra Talk, Zona Z'); application names no individuals | https://forum.zcashcommunity.com/t/53702/14 | first paid Jan 2026 | Open
+## Andre Froes | ZCAP handle: andr9froes | joined ZCAP: June 2026 | tier: Direct grantee
+  - Zcash Network School | org: Weever / Zcash.me | Application owner @andr9froes, project lead | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/266 | first paid Apr 2026 | Completed
+## Anton Livaja | ZCAP handle:  | joined ZCAP: June 2026 | tier: Direct grantee
+  - Bootstrapped and deterministic builds a la StageX | org: Distrust.co | Application owner @antonleviathan (GitHub name Anton Livaja), lead 'Co-Founder Distrust.co' | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/128 | first paid Dec 2025 | Open
+## Arlo Byrne (idky137 on the forum) | ZCAP handle: idky137 | joined ZCAP: December 2024 | tier: Named grant team member
+  - Build Zaino; Zaino Completion; Respecification; Zallet Release; Release Stabilization | org: Zingo Labs | Zingo Labs engineer 2024-25: zancas 'In collaboration with @idky137 and @AloeareV internally'; idky137 posted 'ZingoLabs are pleased to have now released Zaino' (Milestone 1); forum title 'Zingo Labs'; top Zaino contributor. Founded Umbriel Systems ~Mar 2026 | https://forum.zcashcommunity.com/t/zingo-labs-accelerates-zcashd-deprecation-with-zaino/48545 | first paid Oct 2024 | Completed/Open
+## Aura Brito (AuraBritoSM on the forum) | ZCAP handle: AuraBritoSM | joined ZCAP: May 2024 | tier: Named grant team member
+  - Zcash Global en Español (2024) | org: Zcash Español | Named team member (one of 5) | https://forum.zcashcommunity.com/t/zcash-global-en-espanol-q4/49019 | first paid Nov 2024 | Completed
+  - Zcash Global en Español 2025; 2026 | org: Zcash Español | Named team member, $1,200/month (2026 as SoyAuraBrito, $1,725/month) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/10 | first paid Feb 2025 | Completed/Open
+  - Zk Av Club 2025; Community Media Infrastructure 2026 | org: ZK AV Club | Named team member (Curriculum; Community Workshops Coordinator) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/11 | first paid Feb 2025 | Completed/Open
+## Batuhanyldrm | ZCAP handle: Batuhan | joined ZCAP: November 2024 | tier: Direct grantee
+  - Zcash Global Turkish 2025 | org: Batuhan | Application owner @BatuhanZcash, lead 'Batuhan' (forum name Batuhan Yıldırım) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/7 | first paid Jan 2025 | Completed
+  - Zcash Global Turkiye Q2; Q3-4 | org: Batuhan | Application owner | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/38 | first paid May 2025 | Completed
+  - Zcash Türkiye 2026 Q1-2; ZBase Vision; Istanbul Blockchain Week; RLAY HUB; 2026 Q3-4 → 2027 | org: Batuhan / Zcash Türkiye | Application owner | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/163 | first paid Jan 2026 | Completed/Open
+## Chidi | ZCAP handle: lisa001 | joined ZCAP: November 2022 | tier: Direct grantee
+  - Zcash Nigeria 2025 | org: Zcash Nigeria | Application owner 'lisa001 (Chidi)', Lead Ambassador; GitHub olisa001 = 'chidi olisa' | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/14 | first paid Feb 2025 | Completed
+  - Zcash Nigeria 2025 v2.0; Aug-Oct; Nov-Dec | org: Zcash Nigeria | Application owner | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/40 | first paid Jun 2025 | Completed
+  - Zcash Nigeria 2026 | org: Zcash Nigeria | Application owner ('Lisa001 (Chidi Olisa)') | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/150 | first paid Mar 2026 | Open
+## Constance Beguier | ZCAP handle:  | joined ZCAP: September 2023 | tier: Named grant team member
+  - Zebra ZSA Integration; ZSAs in NU7 H2 2025; OrchardZSA finalization; Feature Branch Testnet | org: QEDIT | Named team member 'Cryptography Research Engineer at QEDIT' on all four | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/6 | first paid Jan 2025 | Completed/Open
+## Cosmo Guerini | ZCAP handle:  | joined ZCAP: June 2026 | tier: Direct grantee
+  - Grassroots Marketing at ETHDenver 2026 | org: Zcash Grassroots Marketing Team (readymouse) | Named team member '@cos, Role: Developer Connection' (GitHub cosmojg = Cosmo; cosmo.red = Guerini) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/193 | first paid Jan 2026 | Completed
+  - Marketing at ETHCC + Exxxotica; DWeb Camp | org: Zcash Grassroots Marketing Team | Application co-owner ('readymouse, cosmojg, fabacab'; #283 'Cosmo (zcash @cos, github @cosmojg)') | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/229 | first paid Mar 2026 | Completed
+  - Marketing at Berlin Blockchain Week | org: Zcash Grassroots Marketing Team | Named team member @cos | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/253 | first paid Apr 2026 | Completed
+## Dorian | ZCAP handle: dorianvp | joined ZCAP: May 2025 | tier: Named grant team member
+  - Zaino Completion; Respecification; Zallet Release; Release Stabilization | org: Zingo Labs | Zingo Labs engineer (GitHub company @zingolabs, public org member; 278 Zaino commits from May 2025); zancas: '@dorianvp, $SomeNym, and @pacu have completed 10 of the MS1 RPCs' | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/30 | first paid May 2025 | Open/Completed
+## David Boyer | ZCAP handle: David_Heisenberg | joined ZCAP: May 2022 | tier: Direct grantee
+  - Zcash Short Documentary | org: Zcash Media (37 Laines) | 'David Boyer - Project organizer, Writer' (thread by 37L); ZF Grants team box 'David Boyer' | https://forum.zcashcommunity.com/t/zcash-mini-documentary-educational-series/39667 | first paid Aug 2021 | Completed
+  - Zcash Media Launch Plan; Zcash Media 2023 | org: Zcash Media (37 Laines) | Applicant (forum David_Heisenberg): 'Applicant name: David Boyer, Team member name: 37 Laines'. 2023 grant cancelled after 6 of 9 payouts | https://forum.zcashcommunity.com/t/zcash-media-launch-plan/41138 | first paid Mar 2022 | Completed / 2023 cancelled
+## DecentralistDan (on the forum) | ZCAP handle: @decentralistdan | joined ZCAP: May 2021 | tier: Direct grantee
+  - ZcashZeal | org: ZcashZeal | Applicant ('My nym is @decentralistdan'; = Dan Wolande). Milestone 1 $2,754 paid, rest cancelled. Later ZF, now ECC comms; this grant predates both | https://forum.zcashcommunity.com/t/zcashzeal-multi-media-community-content-hub/38483 | first paid Feb 2021 | Cancelled after milestone 1
+## dismad (on the forum) | ZCAP handle: @dismad8 | joined ZCAP: May 2022 | tier: Direct grantee
+  - ZecHub (2023) | org: ZecHub | Named applicant ('Applicant Names: Jason Rogers, Dismad, Tokidoki') | https://forum.zcashcommunity.com/t/zechub-open-source-education-for-zcash/43761 | first paid Mar 2023 | Completed
+  - ZecHub: Proposal 2024; ZecHub 2024 continued | org: ZecHub | Named core team ('@Dismad @Squirrel @Tecnopapapi'); applicant of the continuation | https://forum.zcashcommunity.com/t/zechub-proposal-2024/46077 | first paid Jan 2024 | Completed
+  - ZecHub 2025 | org: ZecHub | Application owner (@Dismad, @zksquirrel, @vitozkp) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/9 | first paid Jan 2025 | Completed
+  - ZecHub 2026 | org: ZecHub | Application owner | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/153 | first paid Jan 2026 | Open
+## Dre | ZCAP handle: dre_nesthub | joined ZCAP: June 2026 | tier: Direct grantee
+  - Zcash Onboarding @ Web3Lagos Conference 2026 | org: Zcash Developer Onboarding | Application owner @drekal0 / 'Drekal'; forum thread by Dre_Nesthub links #349 | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/349 | first paid Jul 2026 | Completed
+## E-zec on the forum | ZCAP handle: E-zec | joined ZCAP: May 2024 | tier: Named grant team member
+  - Zcash Brazil 2023; Zcash Global <> Zcash Brazil (2024) | org: Zcash Brazil | Named team member (moderator) | https://forum.zcashcommunity.com/t/zcash-global-zcash-brazil/46295 | first paid Jan 2023 | Completed
+  - Zcash Brazil 2025 | org: Zcash Brazil | Named core team (Head & growth), $84k for two | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/8 | first paid Jan 2025 | Completed
+  - Zcash Brazil 2026 | org: Zcash Brazil | Team member per milestone reports ('Community Support - E-zec report'); application names no individuals | https://forum.zcashcommunity.com/t/53702/14 | first paid Jan 2026 | Open
+## Edickson González (Edicksonjga on the forum) | ZCAP handle: Edicksonjga | joined ZCAP: September 2023 | tier: Named grant team member
+  - Zcash Global en Español (2024) | org: Zcash Español | Named team member (one of 5) | https://forum.zcashcommunity.com/t/zcash-global-en-espanol-q4/49019 | first paid Nov 2024 | Completed
+  - Zcash Global en Español 2025; 2026 | org: Zcash Español | Named team member / application co-owner (#157) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/10 | first paid Feb 2025 | Completed/Open
+## Elzz | ZCAP handle: elzz-ux | joined ZCAP: November 2025 | tier: Direct grantee
+  - Zcash Ecosystem Onboarding At Women in DeFi Summit 2026 | org: Zcash Ecosystem Onboarding | Application owner @elzz-ux | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/247 | first paid Apr 2026 | Completed
+## Emersonian (on the forum) | ZCAP handle: emersonian | joined ZCAP: December 2024 | tier: Direct grantee
+  - Zcash Lightwalletd Infrastructure Development and Maintenance | org: Emersonian & Zancas | Applicant ('Our proposal is below', post 2 of the RFP thread); zancas disclaimed any funds | https://forum.zcashcommunity.com/t/rfp-zcash-lightwalletd-infrastructure-development-and-maintenance/47080 | first paid Apr 2024 | Completed
+## emmalexo | ZCAP handle: @Emmalexo | joined ZCAP: November 2025 | tier: Named grant team member
+  - Zcash Nigeria 2025 v2.0; Aug-Oct; Nov-Dec; 2026 | org: Zcash Nigeria | Named team member, $600/month ('@Emmalexo Emmanuel is currently a member of the zcash team Nigeria'); the Feb 2025 application tagged the same bio as @Emmanuel by mistake | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/40 | first paid Jun 2025 | Completed/Open
+## Eric Tu | ZCAP handle: ec2 | joined ZCAP: May 2025 | tier: Direct grantee
+  - Chainsafe Systems (WebZjs continuation) | org: ChainSafe | Project lead 'Eric Tu, Principal Research Engineer' (GitHub/forum ec2) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/2 | first paid Aug 2025 | Completed
+## fabacab | ZCAP handle: fabacab | joined ZCAP: May 2026 | tier: Direct grantee
+  - Grassroots Marketing at ETHDenver 2026 | org: Zcash Grassroots Marketing Team | Application co-owner ('@zReadyMouse, @fabacab'), Technical Educator | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/193 | first paid Jan 2026 | Completed
+  - ETHCC + Exxxotica; Berlin Blockchain Week; DWeb Camp; ZECsy Team in Amsterdam | org: ZECsy / Zcash Grassroots Marketing Team | Application co-owner ('Violet @fabacab') | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/229 | first paid Mar 2026 | Completed
+  - ZECsy Community Building: 12 Months | org: ZECsy | Named team member (lead educator); owner is readymouse alone | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/402 | first paid Sep 2026 | Open
+## fireice_uk (on the forum) | ZCAP handle: fireice_uk | joined ZCAP: May 2021 | tier: Named grant team member
+  - A Metamask-style browser extension for Zcash (Zephyr) | org: Zypher | Named team member ('@fireice_uk and I are also happy to add ... @mistfpga to the team'; ZOMG: 'Congratulations to the whole team @fireice_uk and @mistfpga'). Milestone 1 $30,100 paid, rest cancelled | https://forum.zcashcommunity.com/t/zephyr-a-metamask-style-browser-extension-for-zcash/39112 | first paid May 2021 | Cancelled after milestone 1
+## Cjfrankie | ZCAP handle: @Cjfrankie | joined ZCAP: October 2025 | tier: Named grant team member
+  - Zcash Nigeria 2025; v2.0; Aug-Oct; Nov-Dec; 2026 | org: Zcash Nigeria | Named team member, $600/month on every application (forum name Frank Chukwurah) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/14 | first paid Feb 2025 | Completed/Open
+## Hanh (on the forum) | ZCAP handle: hanh | joined ZCAP: December 2021 | tier: Direct grantee
+  - Cold Wallet; CoinPayments Integration; Payment Gateway with BTCPay (2021-22) | org: Hanh | Grantee (hhanh00) | https://forum.zcashcommunity.com/t/cold-wallet/38664 | first paid Mar 2021 | Completed
+  - YWallet; Orchard and UA for YWallet; Ledger shielded support; YWallet Maintenance (2022-23) | org: Hanh | Grantee | https://forum.zcashcommunity.com/t/orchard-and-ua-for-ywallet/43061 | first paid Sep 2022 | Completed
+  - Maya DEX; Coin Voting 2.0 (2024-25) | org: Hanh | Grantee (Proof of Balance approved but never paid) | https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857 | first paid May 2024 | Completed
+  - Zcash Infra 1 year; BTCPayServer Orchard+UA; Coin Voting maintenance; zaino Stability (2025-26) | org: Hanh | Application owner @hhanh00 | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/5 | first paid Feb 2025 | Completed/Open
+## Harry Halpin | ZCAP handle: @harryhalpin | joined ZCAP: May 2021 | tier: Direct grantee
+  - The Nym mixnet for Network Privacy for Zcash | org: Nym Technologies | Applicant (thread author harryhalpin, Nym co-founder); approved Feb 2024 for $150,000 | https://forum.zcashcommunity.com/t/the-nym-mixnet-for-network-privacy-for-zcash/46324 | first paid Oct 2024 | Open
+## J.W. Verret | ZCAP handle: @jwverret | joined ZCAP: November 2022 | tier: Named grant team member
+  - Pretty Good Policy for Zcash | org: Pretty Good Policy for Zcash | Named team member 'Board Director' (application: board receives 'modest compensation'); also a ZF director | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/396 | first paid Sep 2026 | Open
+## James Katz | ZCAP handle: james_katz | joined ZCAP: October 2023 | tier: Named grant team member
+  - Zcash Global <> Zcash Brazil (2024) | org: Zcash Brazil | Named team member (dev), $1,000/month | https://forum.zcashcommunity.com/t/zcash-global-zcash-brazil/46295 | first paid Jan 2024 | Completed
+  - Zcash Brazil 2025 | org: Zcash Brazil | Named core team (Dev), $45,000 | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/8 | first paid Jan 2025 | Completed
+  - Zcash Brazil 2026 | org: Zcash Brazil | Implied only ('junior Dev (to help James)', links to his repos); application names no individuals | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/155 | first paid Jan 2026 | Open
+## gottabeJay (on the forum) | ZCAP handle: gottabeJay | joined ZCAP: May 2022 | tier: Direct grantee
+  - Telegram Anti Scam Bot - Grant Request | org: JRGB (Zcash Community Telegram Admin Group) | Applicant (thread author; 'We are the Admins of the Zcash community Telegram group'); $700 retroactive | https://forum.zcashcommunity.com/t/zcash-anti-scam-telegram-bot-grant/42845 | first paid May 2023 | Completed
+## Jonathan Rouach | ZCAP handle: jonmrjr | joined ZCAP: December 2023 | tier: Direct grantee
+  - Zebra ZSA Integration | org: QEDIT | Named 'Co-Lead, CEO at QEDIT' (owner handle written @jonrouach) | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/6 | first paid Jan 2025 | Completed
+  - ZSAs in NU7 H2 2025; Legal Compliance 2025; OrchardZSA finalization; Feature Branch Testnet | org: QEDIT | Application owner @jonmrjr | https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/44 | first paid Aug 2025 | Completed/Open
+## Jonathan Bird (birdify on the forum) | ZCAP handle: birdify | joined ZCAP: September 2023 | tier: Named grant team member
+  - Free2Z; Free2Z legal expenses | org: Free2Z (2Z Inc) | Named in application ('Jonathan Bird, PhD. is a senior software engineer at SAP'); co-founder/CFO | https://forum.zcashcommunity.com/t/free2-whats-your/41289 | first paid Jun 2022 | Completed
+  - Free2Z: Preparing the Garden For Spring | org: Free2Z (2Z Inc) | Applicant (thread author birdify): '2Z Inc ... founded by Skylar Saveland (CEO) and Jonathan Bird (CFO)' | https://forum.zcashcommunity.com/t/free2z-preparing-the-garden-for-spring/43979 | first paid Mar 2023 | Completed
+## Juan Carlos Carmona Calvo (Juanky on the forum) | ZCAP handle: Juanky | joined ZCAP: December 2024 | tier: Named grant team member
+  - Implement Orchard Funded Amendment; Zingo! Onward | org: Zingo Labs | Named team ('Now there are 3 of us (Za, Juanky, Gygaxis)'; applicants incl. juanky@zingolabs.org; 'Juanky - TypeScript, FrontEnd, UX/UI'); forum title Zingo Labs | https://forum.zcashcommunity.com/t/implement-orchard/42706 | first paid Nov 2022 | Completed

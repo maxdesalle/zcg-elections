@@ -9,7 +9,7 @@ team=src.split('# ---------------- Named team members')[1].split('# ------------
 for n in M:
     if 'add("%s"'%n in direct: TIER[n]=A
     elif 'add("%s"'%n in team: TIER[n]=B
-TIER["Maxime Desalle"]=D; TIER["Lai Ying Tong"]=D
+TIER["Maxime Desalle"]=D; TIER["Lai Ying Tong"]=D; TIER["Julian Abraham"]=D
 ZFECC={"Natalie E.","Scott Onder","Alex Bornstein","Alfredo Garcia ","Arya Solhi","Conrado Gouvea","Daira Hopwood ","Danika Delano","DC ","DecentralistDan (on the forum)","Elise Hamdon","Jack Gavigan ","Jack Grigg ","Josh Swihart ","Kris Nuttycombe","Marek","Paige (on the forum)","Pili Guerra","Sean Bowe","Teor","Zooko Wilcox","Autotunafish (on the forum)"}
 rows=list(csv.reader(open('data/zcap.csv')))[1:]
 names=[r[0] for r in rows]

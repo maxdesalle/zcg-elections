@@ -118,12 +118,6 @@
   "joined": "December 2021",
   "grants": [
    {
-    "project": "Payment Gateway with BTCPay",
-    "approved": 120000.0,
-    "paid": 120000.0,
-    "first": "Jan 2022"
-   },
-   {
     "project": "YWallet",
     "approved": 350000.0,
     "paid": 350000.0,
@@ -427,7 +421,7 @@
     "project": "Zcash Brazil 2026",
     "approved": 344985.0,
     "paid": 245650.0,
-    "first": "Jan 2026"
+    "first": "Dec 2025"
    }
   ]
  },
@@ -523,7 +517,7 @@
     "project": "Zcash Brazil 2026",
     "approved": 344985.0,
     "paid": 245650.0,
-    "first": "Jan 2026"
+    "first": "Dec 2025"
    }
   ]
  },
@@ -541,7 +535,7 @@
     "project": "Zcash Brazil 2026",
     "approved": 344985.0,
     "paid": 245650.0,
-    "first": "Jan 2026"
+    "first": "Dec 2025"
    }
   ]
  },
@@ -559,7 +553,7 @@
     "project": "Zcash Brazil 2026",
     "approved": 344985.0,
     "paid": 245650.0,
-    "first": "Jan 2026"
+    "first": "Dec 2025"
    }
   ]
  },
@@ -672,74 +666,8 @@
   ]
  },
  {
-  "member": "Arlo Byrne (idky137 on the forum)",
-  "joined": "December 2024",
-  "grants": [
-   {
-    "project": "Zaino Completion",
-    "approved": 151240.0,
-    "paid": 94040.0,
-    "first": "May 2025"
-   },
-   {
-    "project": "Zaino Respecification, No Delay",
-    "approved": 54560.0,
-    "paid": 54560.0,
-    "first": "Aug 2025"
-   },
-   {
-    "project": "Zaino, The Zallet Release",
-    "approved": 69811.2,
-    "paid": 69811.2,
-    "first": "Sep 2025"
-   },
-   {
-    "project": "Zaino Release Stabilization",
-    "approved": 200000.0,
-    "paid": 200000.0,
-    "first": "Jun 2026"
-   }
-  ]
- },
- {
-  "member": "Skylar Saveland",
-  "joined": "May 2022",
-  "grants": [
-   {
-    "project": "Free2Z legal expenses reimbursement",
-    "approved": 12037.0,
-    "paid": 12037.0,
-    "first": "Jun 2022"
-   },
-   {
-    "project": "Free2Z",
-    "approved": 123000.0,
-    "paid": 123000.0,
-    "first": "Jul 2022"
-   },
-   {
-    "project": "Free2Z: Preparing the Garden For Spring",
-    "approved": 333000.0,
-    "paid": 333000.0,
-    "first": "Mar 2023"
-   }
-  ]
- },
- {
   "member": "Kroy",
   "joined": "November 2024",
-  "grants": [
-   {
-    "project": "ZecHub 2026",
-    "approved": 433079.25,
-    "paid": 307639.25,
-    "first": "Jan 2026"
-   }
-  ]
- },
- {
-  "member": "Tron",
-  "joined": "December 2025",
   "grants": [
    {
     "project": "ZecHub 2026",
@@ -775,7 +703,7 @@
     "project": "Developer Relations Engineer",
     "approved": 247000.0,
     "paid": 247000.0,
-    "first": "Mar 2026"
+    "first": "Oct 2024"
    }
   ]
  },
@@ -817,7 +745,7 @@
     "project": "Zcash Brazil 2026",
     "approved": 344985.0,
     "paid": 245650.0,
-    "first": "Jan 2026"
+    "first": "Dec 2025"
    }
   ]
  },
@@ -840,26 +768,14 @@
   ]
  },
  {
-  "member": "Dorian",
-  "joined": "May 2025",
+  "member": "Skylar Saveland",
+  "joined": "May 2022",
   "grants": [
    {
-    "project": "Zaino Respecification, No Delay",
-    "approved": 54560.0,
-    "paid": 54560.0,
-    "first": "Aug 2025"
-   },
-   {
-    "project": "Zaino, The Zallet Release",
-    "approved": 69811.2,
-    "paid": 69811.2,
-    "first": "Sep 2025"
-   },
-   {
-    "project": "Zaino Release Stabilization",
-    "approved": 200000.0,
-    "paid": 200000.0,
-    "first": "Jun 2026"
+    "project": "Free2Z: Preparing the Garden For Spring",
+    "approved": 333000.0,
+    "paid": 333000.0,
+    "first": "Mar 2023"
    }
   ]
  },
@@ -962,18 +878,6 @@
     "approved": 111100.0,
     "paid": 75100.0,
     "first": "Feb 2026"
-   }
-  ]
- },
- {
-  "member": "Eric Tu",
-  "joined": "May 2025",
-  "grants": [
-   {
-    "project": "Chainsafe Systems",
-    "approved": 168000.0,
-    "paid": 168000.0,
-    "first": "Aug 2025"
    }
   ]
  },
@@ -1099,7 +1003,7 @@
     "project": "Zcash Nigeria 2026",
     "approved": 68600.0,
     "paid": 43400.0,
-    "first": "Mar 2026"
+    "first": "Feb 2026"
    }
   ]
  },
@@ -1135,7 +1039,7 @@
     "project": "Zcash Nigeria 2026",
     "approved": 68600.0,
     "paid": 43400.0,
-    "first": "Mar 2026"
+    "first": "Feb 2026"
    }
   ]
  },
@@ -1153,25 +1057,7 @@
     "project": "Zcash Nigeria 2026",
     "approved": 68600.0,
     "paid": 43400.0,
-    "first": "Mar 2026"
-   }
-  ]
- },
- {
-  "member": "emmalexo",
-  "joined": "November 2025",
-  "grants": [
-   {
-    "project": "Zcash Nigeria 2025 (November - December)",
-    "approved": 6400.0,
-    "paid": 6400.0,
-    "first": "Dec 2025"
-   },
-   {
-    "project": "Zcash Nigeria 2026",
-    "approved": 68600.0,
-    "paid": 43400.0,
-    "first": "Mar 2026"
+    "first": "Feb 2026"
    }
   ]
  },
@@ -1184,6 +1070,18 @@
     "approved": 71590.18,
     "paid": 71590.18,
     "first": "Mar 2023"
+   }
+  ]
+ },
+ {
+  "member": "emmalexo",
+  "joined": "November 2025",
+  "grants": [
+   {
+    "project": "Zcash Nigeria 2026",
+    "approved": 68600.0,
+    "paid": 43400.0,
+    "first": "Feb 2026"
    }
   ]
  },
@@ -1238,18 +1136,6 @@
     "approved": 27000.0,
     "paid": 11000.0,
     "first": "Aug 2026"
-   }
-  ]
- },
- {
-  "member": "ogasky (on the forum)",
-  "joined": "June 2026",
-  "grants": [
-   {
-    "project": "Zcash Ghana (July 2026 - September 2026)",
-    "approved": 12600.0,
-    "paid": 12600.0,
-    "first": "Jul 2026"
    }
   ]
  },

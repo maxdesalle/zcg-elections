@@ -424,6 +424,14 @@
 "tier": "Named grant team member",
 "grants": [
 {
+"project": "Zcash Shielded Assets - Asset Swaps and Beyond",
+"org": "QEDIT",
+"role": "Named in the proposal team ('Pablo Kogan, Alexey Koren, Constance Beguier, Eran Tromer, Jonathan Rouach, Antoine Rondelet and Vivek Arte')",
+"link": "https://forum.zcashcommunity.com/t/zcash-shielded-assets-asset-swaps-and-beyond/44497",
+"date": "May 2023",
+"status": "Completed"
+},
+{
 "project": "Zebra ZSA Integration; ZSAs in NU7 H2 2025; OrchardZSA finalization; Feature Branch Testnet",
 "org": "QEDIT",
 "role": "Named team member 'Cryptography Research Engineer at QEDIT' on all four",
@@ -1126,6 +1134,14 @@
 "tier": "Direct grantee",
 "grants": [
 {
+"project": "Zcash Shielded Assets - Asset Swaps and Beyond",
+"org": "QEDIT",
+"role": "Named in the proposal team ('Pablo Kogan, Alexey Koren, Constance Beguier, Eran Tromer, Jonathan Rouach, Antoine Rondelet and Vivek Arte')",
+"link": "https://forum.zcashcommunity.com/t/zcash-shielded-assets-asset-swaps-and-beyond/44497",
+"date": "May 2023",
+"status": "Completed"
+},
+{
 "project": "Zebra ZSA Integration",
 "org": "QEDIT",
 "role": "Named 'Co-Lead, CEO at QEDIT' (owner handle written @jonrouach)",
@@ -1204,7 +1220,7 @@
 {
 "project": "Implement Orchard Funded Amendment; Zingo! Onward",
 "org": "Zingo Labs",
-"role": "Named team ('Now there are 3 of us (Za, Juanky, Gygaxis)'; applicants incl. juanky@zingolabs.org; 'Juanky - TypeScript, FrontEnd, UX/UI'); forum title Zingo Labs",
+"role": "Named team ('Now there are 3 of us (Za, Juanky, Gygaxis)', thread 42706; applicants incl. juanky@zingolabs.org in thread 43945; 'Juanky - TypeScript, FrontEnd, UX/UI' in thread 42371); forum title Zingo Labs",
 "link": "https://forum.zcashcommunity.com/t/implement-orchard/42706",
 "date": "Nov 2022",
 "status": "Completed"
@@ -1222,7 +1238,7 @@
 "name": "Julian Abraham",
 "handle": "",
 "joined": "August 2026",
-"tier": "Direct grantee",
+"tier": "Approved, $0 paid",
 "grants": [
 {
 "project": "Zcash Name Service",
@@ -1290,7 +1306,7 @@
 {
 "project": "Zcash-Avalanche Elastic Subnet Bridge",
 "org": "red·dev (RedDev)",
-"role": "Applicant (thread author mrkit2u = Kit Sturgeon, 'CEO and founder of red·dev')",
+"role": "Applicant (thread author mrkit2u, display name Kit Sturgeon; forum bio 'CEO and founder of red·dev')",
 "link": "https://forum.zcashcommunity.com/t/zcash-elastic-subnet-bridge-on-avalanche/44220",
 "date": "May 2023",
 "status": "Open"
@@ -1398,7 +1414,7 @@
 {
 "project": "Ziggurat 1.0 / 2.0 / 3.0; Zcash UniFFI Library",
 "org": "Equilibrium",
-"role": "Applicant (forum shieldedmark = Mark Henderson, VP Engineering; 'Mark here from Equilibrium'); GitHub aphelionz",
+"role": "Applicant (forum shieldedmark = Mark Henderson, VP Engineering; 'Hey everybody, Mark here from Equilibrium' in the Ziggurat 2.0 thread 41201); GitHub aphelionz",
 "link": "https://forum.zcashcommunity.com/t/ziggurat-the-zcash-network-stability-framework/38758",
 "date": "Mar 2021",
 "status": "Completed"
@@ -1722,6 +1738,14 @@
 "tier": "Direct grantee",
 "grants": [
 {
+"project": "Zcash Shielded Assets - Asset Swaps and Beyond",
+"org": "QEDIT",
+"role": "Named in the proposal team ('Pablo Kogan, Alexey Koren, Constance Beguier, Eran Tromer, Jonathan Rouach, Antoine Rondelet and Vivek Arte')",
+"link": "https://forum.zcashcommunity.com/t/zcash-shielded-assets-asset-swaps-and-beyond/44497",
+"date": "May 2023",
+"status": "Completed"
+},
+{
 "project": "Zebra ZSA Integration; ZSAs in NU7; OrchardZSA finalization; Feature Branch Testnet",
 "org": "QEDIT",
 "role": "Project lead 'Pablo Kogan, Director of Engineering at QEDIT' on all four",
@@ -1773,8 +1797,17 @@
 "name": "Patrick  Diniz",
 "handle": "",
 "joined": "June 2026",
-"tier": "",
-"grants": []
+"tier": "Named grant team member",
+"grants": [
+{
+"project": "Zcash Brazil 2026",
+"org": "Zcash Brazil",
+"role": "Paid partner per 2026 milestone reports ('we've signed a deal with him until December, he's a new partner/contributor'; listed monthly); identity via the report's Instagram link (bio 'Patrick Diniz')",
+"link": "https://forum.zcashcommunity.com/t/53702/17",
+"date": "Feb 2026",
+"status": "Open"
+}
+]
 },
 {
 "name": "Paul Brigner",
@@ -1939,7 +1972,7 @@
 {
 "project": "Zcash Brazil 2026",
 "org": "Zcash Brazil",
-"role": "Team member per 2026 milestone reports ('@Schönell ... moderates our channels'; 'Event management: Schonell'); application names no individuals",
+"role": "Team member per 2026 milestone reports ('Marketing & Growth - Michae2xl, Amandita, schonell ...'; '@Schönell: Former Community Manager at CoinEx Brazil'; 'Event management: Schonell'); application names no individuals",
 "link": "https://forum.zcashcommunity.com/t/53702/14",
 "date": "Jan 2026",
 "status": "Open"
@@ -2323,6 +2356,22 @@
 "tier": "Direct grantee",
 "grants": [
 {
+"project": "Zcash Shielded Assets - Asset Swaps and Beyond",
+"org": "QEDIT",
+"role": "Applicant (thread author vivek: '... and Vivek Arte (myself)')",
+"link": "https://forum.zcashcommunity.com/t/zcash-shielded-assets-asset-swaps-and-beyond/44497",
+"date": "May 2023",
+"status": "Completed"
+},
+{
+"project": "Assistance for Legal Compliance Activities (2024); User-Control for ZSAs",
+"org": "QEDIT",
+"role": "Applicant (thread author vivek on both)",
+"link": "https://forum.zcashcommunity.com/t/assistance-with-legal-compliance-costs/47824",
+"date": "Jul 2024",
+"status": "Completed"
+},
+{
 "project": "Zebra ZSA Integration; ZSAs in NU7; Legal Compliance 2025; OrchardZSA finalization; Feature Branch Testnet",
 "org": "QEDIT",
 "role": "Application owner / author @vivek-arte on all five",
@@ -2484,7 +2533,7 @@
 {
 "project": "Community Note Taker",
 "org": "Jason Rogers",
-"role": "Grantee ('Jason Rogers (@zksquirrel) will be attending the bi-weekly Arborist calls'; forum squirrel)",
+"role": "Grantee ('Jason Rogers will be attending the bi-weekly Arborist calls', linked to twitter.com/zksquirrel; forum squirrel)",
 "link": "https://forum.zcashcommunity.com/t/rfp-community-note-taker/41656",
 "date": "Jul 2022",
 "status": "Completed"

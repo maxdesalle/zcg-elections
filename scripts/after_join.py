@@ -1,5 +1,5 @@
 """Dollars raised by ZCAP members through grants that began AFTER they joined ZCAP.
-A grant counts if its first payment month is strictly after the member's ZCAP join month.
+A grant counts if its earliest payment month is strictly after the member's ZCAP join month (payment is the proxy for approval; Arti II, approved Sep 2022 and first paid Mar 2024, is excluded by hand).
 Each member is credited with the whole grant they were named on (so org totals overlap across
 members); the unique total dedups grants. Run: python3 scripts/after_join.py"""
 import csv,re,json
@@ -19,7 +19,8 @@ for r in list(csv.reader(open('data/grants.csv')))[1:]:
     e=L.setdefault(k,[0,0,None]); e[0]+=amt
     if r[7].strip():
         e[1]+=amt
-        if e[2] is None: e[2]=month(r[7])
+        d=month(r[7].replace('17 Aug 2016','17 Aug 2026').replace('13 Apr 2025','13 Apr 2026'))  # two ledger typos, out of sequence with neighbouring milestones
+        if d and (e[2] is None or d<e[2]): e[2]=d
 # member -> [(grantee regex, project regex)]  (grants the member is named on; see scripts/matches.py)
 ESP=r"^Zcash Global en Espa"; NIG=r"^Zcash Nigeria"; BRA=r"^Zcash (Global <> Zcash )?Brazil"; QED25=r"ZSAs in NU7|OrchardZSA|Feature Branch"
 MAP={
@@ -93,13 +94,30 @@ MAP={
  "DecentralistDan (on the forum)":[("ZcashZeal",".")],"fireice_uk (on the forum)":[("Zypher",".")],
  "Maximilian Roszko ":[("RenZec",".")],"Andre Froes":[("Weever",".")],"Anton Livaja":[("Distrust",".")],
 }
+# Exclusions from the round-2 audit: approval predates the join month, or the member is not named on that grant.
+EXCLUDE={
+ ("Eric Tu","Chainsafe Systems"):"approved 2024-12-24, joined ZCAP May 2025",
+ ("Dorian","Zaino Respecification, No Delay"):"not named on this grant (team undisclosed)",
+ ("Dorian","Zaino, The Zallet Release"):"not named on this grant (team undisclosed)",
+ ("Dorian","Zaino Release Stabilization"):"not named on this grant (team undisclosed)",
+ ("ogasky (on the forum)","Zcash Ghana (July 2026 - September 2026)"):"approved 2026-06-22, same month as joining",
+ ("emmalexo","Zcash Nigeria 2025 (November - December)"):"approved 2025-11-10, same month as joining",
+ ("Hanh (on the forum)","Payment Gateway with BTCPay"):"approved 2021-10-14, joined ZCAP Dec 2021",
+ ("Skylar Saveland ","Free2Z"):"approved 2022-05-19, same month as joining",
+ ("Skylar Saveland ","Free2Z legal expenses reimbursement"):"decided with the main grant May 2022, same month as joining",
+ ("Arlo Byrne (idky137 on the forum)","Zaino Completion"):"not named on this grant (team undisclosed)",
+ ("Arlo Byrne (idky137 on the forum)","Zaino Respecification, No Delay"):"not named on this grant (team undisclosed)",
+ ("Arlo Byrne (idky137 on the forum)","Zaino, The Zallet Release"):"not named on this grant (team undisclosed)",
+ ("Arlo Byrne (idky137 on the forum)","Zaino Release Stabilization"):"not named on this grant (team undisclosed)",
+ ("Tron","ZecHub 2026"):"approved 2025-12-11, same month as joining",
+}
 EXTRA={"Kit Sturgeon (mrkit2u on the forum)":("red·bridge Launch (approved Jun 2026, not yet in ledger)",477658,date(2026,6,1))}
 zc={r[0]:r[2] for r in list(csv.reader(open('data/zcap.csv')))[1:]}
 rows=[];uniq={}
 for m,pats in MAP.items():
     j=joined(zc[m]); got=[]
     for (p,g),(a,pd_,first) in L.items():
-        if any(re.search(gp,g) and re.search(pp,p) for gp,pp in pats) and first and first>j: got.append((p,a,pd_,first))
+        if any(re.search(gp,g) and re.search(pp,p) for gp,pp in pats) and first and first>j and (m,p) not in EXCLUDE: got.append((p,a,pd_,first))
     if m in EXTRA and EXTRA[m][2]>j: got.append((EXTRA[m][0],EXTRA[m][1],0,EXTRA[m][2]))
     if got:
         rows.append((m.strip(),zc[m],len(got),sum(x[1] for x in got),sum(x[2] for x in got),got))
